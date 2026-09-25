@@ -1,6 +1,8 @@
 # 自定义
 release/
 release.zip
+BFE/
+BFSE/
 
 # Prerequisites
 *.d
