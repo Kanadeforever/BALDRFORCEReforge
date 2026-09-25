@@ -1,0 +1,27 @@
+BALDR FORCE 旧汉化 VFS v1.0.4-crashfix1 发行资源审计摘要
+================================================
+VFS files: 313
+VFS bytes: 45599439
+COVERED: 11
+PASS: 302
+REVIEW: 0
+
+Frozen comparison result:
+  311 loose files compared against clean original by the user.
+  9 files differ -> embedded in ASI.
+  302 files are byte-identical -> use clean original.
+
+Groups:
+  ASI内嵌差异loose资源: 9
+  CPU/AI（原版一致）: 80
+  HELLMODE资源（原版一致）: 13
+  PAC: 2
+  WAZ（原版一致）: 79
+  地图数据: 5
+  字体: 1
+  战斗语音路由: 24
+  战斗部件图: 2
+  机体图形/动画: 26
+  语音WAV: 72
+
+Expected final state: 11 COVERED (2 PAC + 9 loose), 302 PASS, 0 REVIEW.

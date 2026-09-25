@@ -1,0 +1,872 @@
+﻿row_index,status,reason,orig_rva,hanhua_rva,japanese,chinese,orig_bytes,hanhua_bytes
+0,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8C08,0x000C7C08,未登録フォント(0x%x),未登录字体(0x%x),20,16
+1,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8E98,0x000C7E98,ﾒﾆｭｰOPEN,菜单OPEN,8,8
+2,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8EC0,0x000C7EC0,ﾒﾆｭｰCLOSE,菜单CLOSE,9,9
+3,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8EE8,0x000C7EE8,ﾒﾆｭｰSELECT,菜单SELECT,10,10
+4,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8F10,0x000C7F10,工場,工厂,4,4
+5,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8F38,0x000C7F38,ﾜｰﾆﾝｸﾞ,警告,6,4
+6,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8F60,0x000C7F60,ﾋﾞｰﾌﾟ音,哔音,7,4
+7,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8F88,0x000C7F88,ｽﾃｰｼﾞ開始音,关卡开始声,11,10
+8,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8FB0,0x000C7FB0,ﾌｫｰｽｹﾞｰｼﾞMAX,超杀槽MAX,12,9
+9,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C8FD8,0x000C7FD8,死亡爆破前音,死亡爆破前声,12,12
+10,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9028,0x000C8028,ｼｽﾃﾑ音01,系统音01,8,8
+11,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9050,0x000C8050,ｼｽﾃﾑ音02,系统音02,8,8
+12,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9078,0x000C8078,ｼｽﾃﾑ音03,系统音03,8,8
+13,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C90A0,0x000C80A0,ｼｽﾃﾑ音04,系统音04,8,8
+14,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C90C8,0x000C80C8,ｼｽﾃﾑ音05,系统音05,8,8
+15,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C90F0,0x000C80F0,ｼｽﾃﾑ音06,系统音06,8,8
+16,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9118,0x000C8118,ｼｽﾃﾑ音07,系统音07,8,8
+17,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9140,0x000C8140,ｼｽﾃﾑ音08,系统音08,8,8
+18,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9168,0x000C8168,ｼｽﾃﾑ音09,系统音09,8,8
+19,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9348,0x000C8348,ﾋｯﾄ小,HIT小,5,5
+20,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9370,0x000C8370,ﾋｯﾄ中,HIT中,5,5
+21,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9398,0x000C8398,ﾋｯﾄ大,HIT大,5,5
+22,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C93C0,0x000C83C0,ﾋｯﾄ大(ｴｺｰ),HIT大(回音),10,11
+23,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C93E8,0x000C83E8,ﾋｯﾄ多音1,HIT多音1,8,8
+24,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9410,0x000C8410,ﾋｯﾄ多音2,HIT多音2,8,8
+25,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9438,0x000C8438,ﾋｯﾄ多音3,HIT多音3,8,8
+26,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9460,0x000C8460,ﾋｯﾄ多音4,HIT多音4,8,8
+27,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9488,0x000C8488,ﾋｯﾄ多音5,HIT多音5,8,8
+28,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C94B0,0x000C84B0,ﾋｯﾄ多音RND,HIT多音RND,10,10
+29,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9500,0x000C8500,ダウン,倒地,6,4
+30,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9528,0x000C8528,超技発動,超杀发动,8,8
+31,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9550,0x000C8550,相殺(ﾒｶ),抵消(机械),8,10
+32,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9578,0x000C8578,相殺(弾),抵消(弾),8,8
+33,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9820,0x000C8820,斬る01,斩01,6,4
+34,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9848,0x000C8848,斬る02,斩02,6,4
+35,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9870,0x000C8870,斬る03,斩03,6,4
+36,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9898,0x000C8898,斬る04,斩04,6,4
+37,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C98C0,0x000C88C0,斬る05,斩05,6,4
+38,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C98E8,0x000C88E8,忍者跳び,忍者跳,8,6
+39,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9910,0x000C8910,手裏剣着弾,飞镖命中,10,8
+40,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9938,0x000C8938,ダウン02,倒地02,8,6
+41,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9960,0x000C8960,ダウン03,倒地03,8,6
+42,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9988,0x000C8988,ダウン04,倒地04,8,6
+43,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C99B0,0x000C89B0,ﾌｨｰﾙﾄﾞ01,力场01,8,6
+44,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C99D8,0x000C89D8,ﾌｨｰﾙﾄﾞ02,力场02,8,6
+45,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9A00,0x000C8A00,ﾌｨｰﾙﾄﾞ03,力场03,8,6
+46,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9A28,0x000C8A28,ﾌｨｰﾙﾄﾞ04,力场04,8,6
+47,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9A50,0x000C8A50,ﾌｨｰﾙﾄﾞ05,力场05,8,6
+48,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9A78,0x000C8A78,ﾌｨｰﾙﾄﾞ06,力场06,8,6
+49,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9AA0,0x000C8AA0,ﾌｨｰﾙﾄﾞ07,力场07,8,6
+50,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9AC8,0x000C8AC8,ﾌｨｰﾙﾄﾞ08,力场08,8,6
+51,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9B40,0x000C8B40,電撃01,电击01,6,6
+52,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9B68,0x000C8B68,電撃02,电击02,6,6
+53,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9B90,0x000C8B90,電撃03,电击03,6,6
+54,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9BB8,0x000C8BB8,電撃04,电击04,6,6
+55,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9BE0,0x000C8BE0,電撃05,电击05,6,6
+56,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9C08,0x000C8C08,電撃06,电击06,6,6
+57,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9C30,0x000C8C30,電撃07,电击07,6,6
+58,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9CD0,0x000C8CD0,発射01,发射01,6,6
+59,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9CF8,0x000C8CF8,発射02,发射02,6,6
+60,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9D20,0x000C8D20,発射03,发射03,6,6
+61,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9D48,0x000C8D48,発射04,发射04,6,6
+62,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9D70,0x000C8D70,発射05,发射05,6,6
+63,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9D98,0x000C8D98,ﾋﾟｽﾄﾙ,手枪,5,4
+64,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9DC0,0x000C8DC0,発射06,发射06,6,6
+65,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9DE8,0x000C8DE8,発射07,发射07,6,6
+66,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9E10,0x000C8E10,発射08,发射08,6,6
+67,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9E60,0x000C8E60,ﾊﾞﾙｶﾝ01,火神炮01,7,8
+68,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9E88,0x000C8E88,ﾊﾞﾙｶﾝ02,火神炮02,7,8
+69,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9EB0,0x000C8EB0,ﾊﾞﾙｶﾝ03,火神炮03,7,8
+70,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9ED8,0x000C8ED8,ﾊﾞﾙｶﾝ04,火神炮04,7,8
+71,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9F00,0x000C8F00,ﾊﾞﾙｶﾝ05,火神炮05,7,8
+72,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9F28,0x000C8F28,ﾊﾞﾙｶﾝ着弾01,火神炮命中01,11,12
+73,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9F50,0x000C8F50,ﾊﾞﾙｶﾝ着弾02,火神炮命中02,11,12
+74,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9F78,0x000C8F78,ﾊﾞﾙｶﾝ着弾03,火神炮命中03,11,12
+75,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9FA0,0x000C8FA0,ﾊﾞﾙｶﾝ着弾04,火神炮命中04,11,12
+76,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9FC8,0x000C8FC8,ﾊﾞﾙｶﾝ着弾RND,火神炮命中RND,12,13
+77,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000C9FF0,0x000C8FF0,ﾋﾞｰﾑ01,激光01,6,6
+78,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA018,0x000C9018,ﾋﾞｰﾑ02,激光02,6,6
+79,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA040,0x000C9040,ﾋﾞｰﾑ03,激光03,6,6
+80,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA068,0x000C9068,ﾋﾞｰﾑ04,激光04,6,6
+81,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA180,0x000C9180,ﾀﾞｯｼｭ01,冲刺01,7,6
+82,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA1A8,0x000C91A8,ﾀﾞｯｼｭ02,冲刺02,7,6
+83,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA1D0,0x000C91D0,ﾀﾞｯｼｭ03,冲刺03,7,6
+84,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA1F8,0x000C91F8,ﾀﾞｯｼｭ04,冲刺04,7,6
+85,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA220,0x000C9220,ﾄﾞﾘﾙ1,钻头1,5,5
+86,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA248,0x000C9248,ﾄﾞﾘﾙ2,钻头2,5,5
+87,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA310,0x000C9310,攻撃01,攻击01,6,6
+88,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA338,0x000C9338,攻撃02,攻击02,6,6
+89,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA360,0x000C9360,攻撃03,攻击03,6,6
+90,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA388,0x000C9388,攻撃04,攻击04,6,6
+91,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA3B0,0x000C93B0,攻撃05,攻击05,6,6
+92,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA3D8,0x000C93D8,攻撃06,攻击06,6,6
+93,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA400,0x000C9400,攻撃07,攻击07,6,6
+94,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA428,0x000C9428,攻撃08,攻击08,6,6
+95,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA450,0x000C9450,攻撃09,攻击09,6,6
+96,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA4A0,0x000C94A0,ｶﾁｯ,咔嚓,3,4
+97,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA4C8,0x000C94C8,ﾋﾟﾋﾟｯ,哔哔,5,4
+98,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA518,0x000C9518,ﾊﾞｼｬ,哗,4,2
+99,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA540,0x000C9540,ﾊﾞｼｬｰﾝ,哗—,6,4
+100,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA568,0x000C9568,弾き1,弹开1,5,5
+101,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA590,0x000C9590,弾き2,弹开2,5,5
+102,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA5B8,0x000C95B8,弾き3,弹开3,5,5
+103,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA5E0,0x000C95E0,弾きRND,弹开RND,7,7
+104,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA608,0x000C9608,ｶﾁﾁｯ,咔嚓嚓,4,6
+105,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA630,0x000C9630,ﾋﾞﾖﾝ,咻,4,2
+106,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA658,0x000C9658,ﾎﾞﾖｰﾝ,咻—,5,4
+107,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA680,0x000C9680,ﾋｭｰﾝ,嗖,4,2
+108,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA6A8,0x000C96A8,ﾋﾟｭｰﾝ,嗖—,5,4
+109,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA6F8,0x000C96F8,鞭振り回し,挥鞭,10,4
+110,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA720,0x000C9720,ｷｬﾀﾋﾟﾗ,咔嗒,6,4
+111,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA748,0x000C9748,鞭叩きつけ,鞭击,10,4
+112,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA950,0x000C9950,機械音01,机械音01,8,8
+113,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA978,0x000C9978,機械音02,机械音02,8,8
+114,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA9A0,0x000C99A0,機械音03,机械音03,8,8
+115,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA9C8,0x000C99C8,機械音04,机械音04,8,8
+116,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CA9F0,0x000C99F0,機械音05,机械音05,8,8
+117,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAA18,0x000C9A18,機械音06,机械音06,8,8
+118,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAA40,0x000C9A40,機械音07,机械音07,8,8
+119,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAA68,0x000C9A68,ｶﾞﾁｬ,嘎嚓,4,4
+120,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAA90,0x000C9A90,憐超技,怜超杀,6,6
+121,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAAB8,0x000C9AB8,ｶﾞﾁｬ,嘎嚓,4,4
+122,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAAFC,0x000C9AFC,SEがない(%s),没有SE(%s),12,10
+123,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAB0C,0x000C9B0C,%sが、見つかりません。,没有找到%s。,22,12
+124,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAB30,0x000C9B30,ＳＥロードしてないのに消そうとした。,ＳＥ未载入便要取消。,36,20
+125,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAB58,0x000C9B58,相馬 透,相马 透,7,7
+126,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAD6C,0x000C9D6C,二階堂 あきら,二階堂 影,13,9
+127,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CAF80,0x000C9F80,野々村 優哉,野野村 优哉,11,11
+128,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CB194,0x000CA194,バチェラ,巴杰拉,8,6
+129,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CB3A8,0x000CA3A8,也駆喪,也驱丧,6,6
+130,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CB9E4,0x000CA9E4,カイラ・キルステン,凯拉·吉尔斯坦,18,14
+131,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CBE0C,0x000CAE0C,八木澤 宗次,八木泽 宗次,11,11
+132,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CC020,0x000CB020,カプチーノ,卡普奇诺,10,8
+133,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CC234,0x000CB234,レイ・ファントム,Ray Phantom,16,11
+134,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CC448,0x000CB448,ジャッカル,Jackall,10,7
+135,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CC65C,0x000CB65C,ヘルコアラ,地狱考拉,10,8
+136,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CC870,0x000CB870,ロンメル,隆美尔,8,6
+137,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CCA84,0x000CBA84,マスターセーバー,Master Saber,16,12
+138,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CCC98,0x000CBC98,ウインダム,Windom,10,6
+139,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CCEAC,0x000CBEAC,コウガ,甲贺,6,4
+140,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CD0C0,0x000CC0C0,コブラ,眼镜蛇,6,6
+141,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CD2D4,0x000CC2D4,ブルーレイバー,Blue Labor,14,10
+142,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CD4E8,0x000CC4E8,ブラッディー,Bloody,12,6
+143,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CD6FC,0x000CC6FC,ゴリアテ,Golyat,8,6
+144,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CD910,0x000CC910,ディフェンダー,防御者,14,6
+145,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CDB24,0x000CCB24,ティーガー,Tiger,10,5
+146,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CDD38,0x000CCD38,ゴング,Gong,6,4
+147,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CDF4C,0x000CCF4C,サスケ,佐助,6,4
+148,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CE160,0x000CD160,ライジングサン,Rising Sun,14,10
+149,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CE374,0x000CD374,グランディール,Grandir,14,7
+150,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CE588,0x000CD588,デスファランクス,Death Phalanx,16,13
+151,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CE79C,0x000CD79C,カイザー,凯撒,8,4
+152,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CE9B0,0x000CD9B0,ウォーカーキャリア,Walker Gallia,18,13
+153,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CEBC4,0x000CDBC4,ビルシュタイン,Bilstein,14,8
+154,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CEDD8,0x000CDDD8,メルセデス,Mercedes,10,8
+155,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CEFEC,0x000CDFEC,ファウンデーション,Foundation,18,10
+156,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CF200,0x000CE200,キリングフィールド,Killing Field,18,13
+157,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CF414,0x000CE414,グランドカノン,Grand Canon,14,11
+158,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CF628,0x000CE628,阿修羅,阿修罗,6,6
+159,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000CF83C,0x000CE83C,ゲンハ,元霸,6,4
+160,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D02A0,0x000CF2A0,スパルトイ,Spartoi,10,7
+161,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D04B4,0x000CF4B4,ヘカトンケイル,Hekatoncheir,14,12
+162,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D06C8,0x000CF6C8,アラクネ,Arachne,8,7
+163,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D08DC,0x000CF8DC,ハルピュイアイ,Harpuiai,14,8
+164,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D112C,0x000D012C,アリーナ,Arena,8,5
+165,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1340,0x000D0340,シルキードライ,Silkydry,14,8
+166,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1554,0x000D0554,レギオス,Regios,8,6
+167,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1768,0x000D0768,マリーン,Marlene,8,7
+168,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D197C,0x000D097C,ジェネシス,Genesis,10,7
+169,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1B90,0x000D0B90,マリンクラブ,Marine Club,12,11
+170,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1DA4,0x000D0DA4,ハンタードッグ,猎狗,14,4
+171,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D1FB8,0x000D0FB8,ガーランド-03,Garand-03,13,9
+172,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D23E0,0x000D13E0,ゼロ・レイバー,Zero Labor,14,10
+173,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D25F4,0x000D15F4,クレセント,Crescent,10,8
+174,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D2808,0x000D1808,デス・バレー,Death Valley,12,12
+175,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D2A1C,0x000D1A1C,Ｖキャノン,V Canon,10,7
+176,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D2C30,0x000D1C30,クルセイダー,Crusader,12,8
+177,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D2E44,0x000D1E44,サントチェーロ,Santo Cielo,14,11
+178,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D3058,0x000D2058,ポルタフォルトゥーナ,Porta Fortuna,20,13
+179,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D326C,0x000D226C,フォルビーチェ,Forbice,14,7
+180,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D3480,0x000D2480,デカラビア,Decarabia,10,9
+181,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D3694,0x000D2694,フォルネウス,Forneus,12,7
+182,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D38A8,0x000D28A8,クーウォン,匡,10,2
+183,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D3EE4,0x000D2EE4,八木澤 宗次,八木泽 宗次,11,11
+184,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D40F8,0x000D30F8,バチェラ,巴杰拉,8,6
+185,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D430C,0x000D330C,リバイアサン,利维坦,12,6
+186,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D4520,0x000D3520,リバイアサン,利维坦,12,6
+187,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D4B5C,0x000D3B5C,狭霧,狭雾,4,4
+188,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D51A8,0x000D41A8,メカID %d はすでに呼ばれてる,机械ID %d 已呼出,28,16
+189,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D51D9,0x000D41D9,ﾇA,艫,2,2
+190,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D51DD,0x000D41DD,ﾇA,艫,2,2
+191,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D51E9,0x000D41E9,ﾇA,艫,2,2
+192,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D51ED,0x000D41ED,ﾇA,艫,2,2
+193,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5208,0x000D4208,席A,腥A,3,3
+194,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D520C,0x000D420C, ﾉA,`葾,3,3
+195,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5210,0x000D4210,惜A,猩A,3,3
+196,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5214,0x000D4214,ｰﾉA,鹕A,3,3
+197,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5218,0x000D4218,pﾊA,笆A,3,3
+198,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D521C,0x000D421C,戚A,惺A,3,3
+199,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5224,0x000D4224, ﾋA,`薃,3,3
+200,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D522C,0x000D422C,PﾋA,愃A,3,3
+201,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5234,0x000D4234,pﾋA,浪A,3,3
+202,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5238,0x000D4238, ﾌA,p藺,3,3
+203,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D523C,0x000D423C,PﾌA,`袮,3,3
+204,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5240,0x000D4240,獏A,犔A,3,3
+205,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D524C,0x000D424C,ｰﾌA,嗵A,3,3
+206,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5255,0x000D4255,ﾍA,虯,2,2
+207,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D525C,0x000D425C, ﾍA,P虯,3,3
+208,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5260,0x000D4260,PﾍA,嗤A,3,3
+209,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D526C,0x000D426C,pﾐA,@蠥,3,3
+210,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5278,0x000D4278,猩A,p蜛,3,3
+211,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D527C,0x000D427C,ﾐﾎA,犖A,3,3
+212,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5288,0x000D4288,pﾎA,牢A,3,3
+213,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D528C,0x000D428C,pﾐA,@蠥,3,3
+214,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5298,0x000D4298,ﾐﾎA,犖A,3,3
+215,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52A4,0x000D42A4, ﾏA,鹞A,3,3
+216,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52A8,0x000D42A8,積A,`螦,3,3
+217,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52B4,0x000D42B4,pﾐA,@蠥,3,3
+218,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52C0,0x000D42C0,ﾐﾎA,犖A,3,3
+219,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52CC,0x000D42CC,0ﾑA,0袮,3,3
+220,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52DC,0x000D42DC,0ﾑA,0袮,3,3
+221,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52EC,0x000D42EC,PﾌA,`袮,3,3
+222,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52F0,0x000D42F0,獏A,犔A,3,3
+223,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D52FD,0x000D42FD,ﾒA,袮,2,2
+224,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5304,0x000D4304,0ﾒA, 褹,3,3
+225,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D530C,0x000D430C,PﾒA,@褹,3,3
+226,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D531C,0x000D431C, ﾆA, 艫,3,3
+227,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5324,0x000D4324,ｰﾆA,犉A,3,3
+228,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5328,0x000D4328,析A,耙A,3,3
+229,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5338,0x000D4338,析A,耙A,3,3
+230,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5348,0x000D4348,析A,耙A,3,3
+231,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D534C,0x000D434C,猊A, 華,3,3
+232,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5358,0x000D4358,析A,耙A,3,3
+233,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5364,0x000D4364,斥A,嗨A,3,3
+234,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5368,0x000D4368,猖A, 蔄,3,3
+235,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D536C,0x000D436C,斥A,嗨A,3,3
+236,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5370,0x000D4370,猖A, 蔄,3,3
+237,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5380,0x000D4380, ﾎA,愌A,3,3
+238,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5384,0x000D4384,析A,耙A,3,3
+239,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5388,0x000D4388,斥A,嗨A,3,3
+240,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D538C,0x000D438C,猖A, 蔄,3,3
+241,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5398,0x000D4398, ﾎA,愌A,3,3
+242,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D539C,0x000D439C,析A,耙A,3,3
+243,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53A8,0x000D43A8, ﾎA,愌A,3,3
+244,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53AC,0x000D43AC,析A,耙A,3,3
+245,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53B8,0x000D43B8, ﾎA,愌A,3,3
+246,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53BC,0x000D43BC,析A,耙A,3,3
+247,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53D0,0x000D43D0, ﾎA,愌A,3,3
+248,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53D4,0x000D43D4,析A,耙A,3,3
+249,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53EC,0x000D43EC, ﾎA,愌A,3,3
+250,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D53F0,0x000D43F0,析A,耙A,3,3
+251,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5401,0x000D4401,ﾐA,螦,2,2
+252,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5414,0x000D4414, ﾎA,愌A,3,3
+253,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5418,0x000D4418,析A,耙A,3,3
+254,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5428,0x000D4428, ﾎA,愌A,3,3
+255,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D542C,0x000D442C,析A,耙A,3,3
+256,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5438,0x000D4438, ﾎA,愌A,3,3
+257,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D543C,0x000D443C,析A,耙A,3,3
+258,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5448,0x000D4448, ﾎA,愌A,3,3
+259,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D544C,0x000D444C,析A,耙A,3,3
+260,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5458,0x000D4458, ﾎA,愌A,3,3
+261,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D545C,0x000D445C,析A,耙A,3,3
+262,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5468,0x000D4468, ﾎA,愌A,3,3
+263,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D546C,0x000D446C,析A,耙A,3,3
+264,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5564,0x000D4564,マップバージョンが最新ではありません（%s)(%s）,地图版本非最新（%s)(%s）,46,24
+265,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5600,0x000D4600,ｰFB,燜B,3,3
+266,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5604,0x000D4604,ﾀHB,癏B,3,3
+267,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5608,0x000D4608,ﾀJB,癑B,3,3
+268,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D561C,0x000D461C,ﾐPB,繮B,3,3
+269,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D562C,0x000D462C,ﾐQB,繯B,3,3
+270,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5640,0x000D4640,ﾐRB,繰B,3,3
+271,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5644,0x000D4644,ﾀTB,癟B,3,3
+272,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5648,0x000D4648,ﾀVB,癡B,3,3
+273,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5654,0x000D4654,ｰZB,燴B,3,3
+274,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5658,0x000D4658,ﾀ[B,癧B,3,3
+275,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5660,0x000D4660,ﾀ\B,癨B,3,3
+276,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5678,0x000D4678,ﾀGB,癎B,3,3
+277,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5690,0x000D4690,ﾐ_B,繽B,3,3
+278,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D56B0,0x000D46B0,ﾐIB,繧B,3,3
+279,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D56EC,0x000D46EC,ﾐSB,繱B,3,3
+280,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D56F0,0x000D46F0,ﾐUB,繳B,3,3
+281,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D571C,0x000D471C,ﾐDB,繢B,3,3
+282,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D5745,0x000D4745,澳,蟂,2,2
+283,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5748,0x000D4748,EFTがない(%s),无EFT(%s),13,9
+284,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5758,0x000D4758,EFT_Spr_Del：登録してないのに消そうとした,EFT_Spr_Del：未登陆却要取消,41,27
+285,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D579C,0x000D479C,%d番のエフェクト垂れ流し処理は使用中だよ！,第%d个效果处理在使用！,42,22
+286,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D57C8,0x000D47C8,%d番のエフェクト垂れ流し処理は使われてないよ！,第%d个效果未使用！,46,18
+287,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D57F8,0x000D47F8,%d番のメカなんぞおらん！,第%d个机械没有！,24,16
+288,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D58AC,0x000D48AC,近距離,近距离,6,6
+289,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D58B4,0x000D48B4,遠距離,远距离,6,6
+290,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D58BC,0x000D48BC,ｵｰﾙﾗｳﾝﾄﾞ,全能,8,4
+291,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D58E0,0x000D48E0,の憐に吸い込まれると一撃で消滅してしまう。,吸入，会被瞬间消灭。,42,20
+292,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D590C,0x000D490C,ので対空兵器が役に立つ。フォースクラッシュで影,所以对空兵器很有效。如果被影之怜用超杀,46,38
+293,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D593C,0x000D493C,り瞬間移動を多用する。空中に浮いている事が多い,频繁地瞬间移动。经常浮在空中，,46,30
+294,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D596C,0x000D496C,後の相手となる。ネットの法則を完全に無視してお,对手。完全无视了网络法则，,46,26
+295,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D599C,0x000D499C,ネット世界で表現される影の憐の姿。最強にして最,怜在网络世界中表现出的影之姿态。是最后最强的,46,44
+296,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D59CC,0x000D49CC,遮蔽物を完全に無視してくる凶悪さ。,很凶狠。,34,8
+297,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D59F0,0x000D49F0,ようとしてくる。フォースクラッシュのレーザーは,超杀的光束会无视遮挡物，,46,24
+298,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5A20,0x000D4A20,スのようなものを吐き出しながら、上空から圧殺し,并从上方进行压杀。,46,18
+299,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5A50,0x000D4A50,の法則を完全に無視し、瞬間移動してくる。ウィル,进行瞬间移动。会喷出类似病毒的东西，,46,36
+300,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5A80,0x000D4A80,ウィルスによって玲佳の手中に落ちており、ネット,因为病毒而落入玲佳的手中，完全无视网络法则，,46,44
+301,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5AB0,0x000D4AB0,するビットは強力。,的浮游炮很强大。,18,16
+302,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5AC4,0x000D4AC4,ビットの種類も増えており、特に電撃を長時間放出,浮游炮的种类增加，特别是会长时间释放电击,46,40
+303,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5AF4,0x000D4AF4,掛けてくる。対空兵器がないと落とすのは難しい。,如果没有对空兵器，很难击落。,46,28
+304,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5B24,0x000D4B24,グを使って空中移動しつつ、様々なビット攻撃を仕,使用轮环在空中移动，会使用各种浮游炮攻击。,46,42
+305,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5B54,0x000D4B54,体にリングを纏った、手加減なしの本気状態。リン,身体带上轮环，手下不留情的认真状态。,46,36
+306,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5B84,0x000D4B84,壁を反射して戻ってくるので非常にやっかい。,因为可以在墙上反射，所以非常难对付。,42,36
+307,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5BB0,0x000D4BB0,モードのみ、直線上に進む爆風を出すようになる。,直线前进的爆风。,46,16
+308,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5BE0,0x000D4BE0,いダッシュで一気に間合いを詰めてくる。ハード,冲刺瞬间拉近距离。在困难模式下，会产生,44,38
+309,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5C10,0x000D4C10,ンボを極めている。遠距離戦は苦手だが、装甲の高,的连击。不擅长远距离战，但能够利用高装甲的,46,42
+310,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5C40,0x000D4C40,旧型のシュミクラムを愛用。格闘戦の鬼で、打撃コ,善用旧型的机体。作为格斗战之鬼，穷极了打击技,46,44
+311,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5C70,0x000D4C70,巨大な為、ダウン中にもパンチなどが当たる。,所以倒地时也能用拳击之类的武器击中。,42,36
+312,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5C9C,0x000D4C9C,シュも全て光学兵器で高性能なものが揃っている。,高性能的光学兵器。因为很巨大，,46,30
+313,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5CCC,0x000D4CCC,を見出すまでは苦戦するだろう。フォースクラッ,大概会陷入苦战吧。超杀也都是,44,28
+314,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5CFC,0x000D4CFC,シュミクラム。どの光学兵器もひと癖あり、対処法,无论哪种光学兵器都很厉害，在找出对付方法前,46,42
+315,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5D2C,0x000D4D2C,驚異的な光学兵器を多数搭載したＶＳＳの超重量級,搭载了大量惊异光学兵器的ＶＳＳ超重量级机体。,46,44
+316,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5D5C,0x000D4D5C,介なので、こちらの攻撃で相殺させよう。,尽量用己方的攻击抵消吧。,38,24
+317,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5D84,0x000D4D84,くる。トラップ兵器のスイングワイヤーは非常に厄,陷阱兵器的绳索非常难以对付，,46,28
+318,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5DB4,0x000D4DB4,高性能なタックルから、重い連続攻撃を叩き込んで,会以高性能的冲撞开始，进行沉重的连续攻击。,46,42
+319,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5DE4,0x000D4DE4,ズされており全てにおいて性能がアップしている。,一切性能都得到了提高。,46,22
+320,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5E14,0x000D4E14,彩音のシュミクラムが変形した姿。特殊カスタマイ,彩音的机体变形后的样子。进行特殊个性化之后，,46,44
+321,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5E44,0x000D4E44,撃を得意とし、リーチが長いので注意。,注意攻击范围很广。,36,18
+322,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5E6C,0x000D4E6C,と耐久力を削られる。近距離戦は槍を主体とした攻,近距离战擅长长枪为主的攻击，,46,28
+323,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5E9C,0x000D4E9C,い。辺り一帯を火の海と化す攻撃が多く、じわじわ,很多攻击能够将周围化为火海，不停削减耐久力。,46,44
+324,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5ECC,0x000D4ECC,いが、有り余る火器兵器をメインに相手を近づけな,但大量的热兵器令对手无法接近。,46,30
+325,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5EFC,0x000D4EFC,装甲の高い超重量級シュミクラムを操る。動きは重,操纵装甲很高的超重量级机体。虽然动作沉重，,46,42
+326,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5F2C,0x000D4F2C,いる間は身動きが取れないので非常に危険。,会非常地危险。,40,14
+327,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5F58,0x000D4F58,がいたら飛びついて噛み付いてくる。噛み付かれて,就会扑过去咬住。被咬住的时候无法移动，,46,38
+328,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5F88,0x000D4F88,ながら、墨のようなものを吐きつける。近くに標的,喷出墨汁般的东西。如果近处有目标，,46,34
+329,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5FB8,0x000D4FB8,体生物のような形状をしており、泳ぐように移動し,有着类似软体生物的形状，游泳般地移动，,46,38
+330,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D5FE8,0x000D4FE8,リバイアサンから生み出された未知のウィルス。軟,利维坦产生的未知病毒。,46,22
+331,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6018,0x000D5018,近してくる事もある。,接近过来。,20,10
+332,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6030,0x000D5030,型のウィルスのようなものを発生させながら自ら接,的东西同时主动,46,14
+333,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6060,0x000D5060,距離では泡のような攻撃を浴びせてくる。また、小,会进行泡沫般的攻击。还会在产生类似小型病毒,46,42
+334,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6090,0x000D5090,距離では稲妻を発する弾を四方八方にばら撒き、中,在远距离会全方向射出雷电弹，中距离,46,34
+335,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D60C0,0x000D50C0,リバイアサンから生み出された未知のウィルス。遠,利维坦产生的未知病毒。,46,22
+336,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D60F0,0x000D50F0,きが取れなくなると目も当てられない。,会无法对付。,36,12
+337,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6118,0x000D5118,真下に突っ込む攻撃は威力が高い。飛びつかれ身動,如果被扑到会无法移动，,46,22
+338,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6148,0x000D5148,主に上空から攻めてくる。脚をドリル状に回転させ,脚部以钻头形旋转，向下方的攻击威力很高。,46,40
+339,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6178,0x000D5178,現れる事が多い。ゆったりとしたジャンプで接近し,会慢慢跳跃接近，主要从上方进攻。,46,32
+340,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D61A8,0x000D51A8,バチェラが作り上げた、蜘蛛型のウィルス。大群で,巴杰拉制作的，蜘蛛型病毒。经常大群出现。,46,40
+341,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D61D8,0x000D51D8,ュに慣性がついていて急に方向転換が出来ない。,无法突然改变方向。,44,18
+342,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6208,0x000D5208,かプログラムされていない。機動力は高いがダッシ,虽然机动力很高，但由于惯性，,46,28
+343,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6238,0x000D5238,ソーを振り回す危ないやつ。標的を追いかける事し,编程的时候只让它去追目标。,46,26
+344,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6268,0x000D5268,バチェラが作り上げたウィルスの１つで、チェーン,巴杰拉制作的病毒之一，会抡电锯的危险家伙。,46,42
+345,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6298,0x000D5298,がらレーザーやガトリングで攻め立てる。,以光束和机关枪进行攻击。,38,24
+346,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D62C0,0x000D52C0,多い。非常に機動力があり、標的の周囲を旋回しな,机动力很高，会在目标周围旋转，,46,30
+347,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D62F0,0x000D52F0,形状のウィルス。攻撃自体もビットのようなものが,攻击本身也很像浮游炮。,46,22
+348,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6320,0x000D5320,バチェラが作り上げた、一見するとビットのような,巴杰拉制作的病毒，一眼看去像是浮游炮。,46,38
+349,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6350,0x000D5350,対空兵器がないと安定して撃ち落すのは難しい。,如果没有对空兵器，难以平安击落。,44,32
+350,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6380,0x000D5380,機敏な動きをする。かなり高い位置を飛行するので,会进行敏捷的行动。因为会在很高的位置飞行，,46,42
+351,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D63B0,0x000D53B0,るにもかかわらず機動力が格段にアップしており、,但机动力还是有了飞跃，,46,22
+352,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D63E0,0x000D53E0,ガーランド-03と同型のウィルス。大型化されてい,和Garand-03同型的病毒。虽然经过了大型化，,45,41
+353,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6410,0x000D5410,に変更されている。,光线。,18,6
+354,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6424,0x000D5424,も速くなっている。射撃兵器はバルカンからビーム,射击武器从火神炮变为了,46,22
+355,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6454,0x000D5454,されたウィルス。移動速度が増しており、攻撃頻度,增加了移动速度，攻击频率也变快了。,46,34
+356,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6484,0x000D5484,ハンタードッグをバージョンアップさせ、性能強化,猎狗升级版，强化了性能的病毒。,46,30
+357,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D64B4,0x000D54B4,て威嚇してくる。,怪音波进行威吓。,16,16
+358,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D64C8,0x000D54C8,るとダウンしてしまう。接近されると怪音波を放っ,命中之后会倒地。如果接近，会放出,46,32
+359,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D64F8,0x000D54F8,度が非常に速く、ゼロ・レイバーのそれと違い当た,突进速度非常快，和Zero Labor的不同，,46,36
+360,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6528,0x000D5528,性能が高い。地面に潜ってからの頭突きは、突進速,潜入地面之后的头撞，,46,20
+361,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6558,0x000D5558,ゼロ・レイバーと同型だがこちらのウィルスは少し,和Zero Labor同型，但这个病毒性能稍微高些。,46,42
+362,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6588,0x000D5588,に地面に触手を突き刺す。,而将触手刺入地面。,24,18
+363,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D65A4,0x000D55A4,近づくと逃げ回り、距離が離れると起爆の準備の為,外敌接近后会跑开，拉开距离后会为了准备起爆,46,42
+364,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D65D4,0x000D55D4,を優先させる為、たいした攻撃はできない。外敵が,为了优先起爆，所以无法进行强力的攻击。,46,38
+365,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6604,0x000D5604,核融合炉を起爆させる為に作られたウィルス。起爆,为了让核融合炉起爆而制作的病毒。,46,32
+366,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6634,0x000D5634,る時もあり、バカにされた気分になる。,什么也不做，让人感觉被愚弄了。,36,30
+367,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D665C,0x000D565C,当たらなくなる。たまに遠くで何もせず跳ね回って,射击兵器无法命中。偶尔会在远方单纯地跳着，,46,42
+368,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D668C,0x000D568C,地面に潜り込んでからの頭突き攻撃は、射撃兵器は,潜入地面后会用头撞来攻击，,46,26
+369,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D66BC,0x000D56BC,常にピョンピョンと跳ねながら移動するウィルス。,总是弹跳着移动的病毒。,46,22
+370,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D66EC,0x000D56EC,くる。この時は装甲が厚くなっている。,这时装甲会变厚。,36,16
+371,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6714,0x000D5714,接近されると、体を球状にしてゴロゴロと転がって,接近之后，身体会变成球状滚过来。,46,32
+372,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6744,0x000D5744,事が多い。距離が離れるとひたすら砲撃してくる。,如果拉开距离，就会一直炮击。,46,28
+373,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6774,0x000D5774,飛刀が採用している。群れをなして数で攻めてくる,军队编制和飞刀。经常群聚，以数量进攻。,46,38
+374,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D67A4,0x000D57A4,一般企業が開発した遠距離支援型のウィルス。軍や,一般企业开发的远距离支援型病毒。采用了,46,38
+375,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D67D4,0x000D57D4,ーナーを吹き付ける。,射出火焰弹。,20,12
+376,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D67EC,0x000D57EC,ら撒いてくる。下に標的がいると真下に向かってバ,如果下方有目标，就会向下方,46,26
+377,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D681C,0x000D581C,より少しだけ高い位置で飛行し、上空から爆弾をば,可以在稍高的位置飞行，从上空撒下炸弹。,46,38
+378,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D684C,0x000D584C,ＦＬＡＫが開発した警備ウィルス。ハンタードッグ,ＦＬＡＫ开发的警卫病毒。比起猎狗，,46,34
+379,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D687C,0x000D587C,されるとエネルギーボールを盾に突進してくる。,会以能量球为盾牌进行突进。,44,26
+380,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D68AC,0x000D58AC,で攻撃してくるが、数で攻めない限りは非力。接近,进行攻击，但只要数量不多就很无力。接近后,46,40
+381,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D68DC,0x000D58DC,ＦＬＡＫが開発した警備ウィルス。バルカン砲など,ＦＬＡＫ开发的警卫病毒。会用火神炮之类的武器,46,44
+382,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D690C,0x000D590C,浮遊後多段ヒットする突進を出してくる事がある。,会浮游后进行多段HIT的突进。,46,27
+383,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D693C,0x000D593C,獰猛で積極的に攻撃を仕掛けてくる。中間距離では,会狰狞地积极进行攻击。在中间距离下，,46,36
+384,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D696C,0x000D596C,歩きだけでなく前進もしてくる。マリーンに比べて,不仅仅是横向移动，还会前进。和Marlene相比，,46,43
+385,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D699C,0x000D599C,マリーンと同じく蟹型のウィルス。ただこちらは横,和Marlene同样是蟹型的病毒。不过这个病毒,46,39
+386,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D69CC,0x000D59CC,ではない。,对手。,10,6
+387,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D69D8,0x000D59D8,逃げながら遠距離攻撃をしていればあまり恐い相手,边进行远距离攻击，就不是太可怕的,46,32
+388,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6A08,0x000D5A08,うとする。ただ強力な射撃兵器は持っていない為、,但是因为没有携带强力的射击兵器，只要边逃跑,46,42
+389,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6A38,0x000D5A38,撃的。常に標的を追跡し、隙あらば噛み付いてこよ,会持续追踪目标，有机会就会扑上去。,46,34
+390,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6A68,0x000D5A68,レギオスと同型のウィルスだが、こちらは非常に攻,和Regios同型的病毒，但这个病毒攻击性非常强。,46,44
+391,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6A98,0x000D5A98,を出してくる。,打击攻击。,14,10
+392,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6AA8,0x000D5AA8,飛ばし攻撃。密着すると自らを回転させる打撃攻撃,进行攻击。接近后自己会旋转着进行,46,32
+393,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6AD8,0x000D5AD8,るので攻撃が当たりにくい。基本は中距離からの針,所以攻击难以命中。基本上会从中距离射出针刺,46,42
+394,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6B08,0x000D5B08,蟹型の小型ウィルス。座高が低く、横移動ばかりす,蟹型的小型病毒。因为很低，并且进行横向移动，,46,44
+395,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6B38,0x000D5B38,ばす攻撃を狙ってくる。,这样的攻击。,22,12
+396,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6B50,0x000D5B50,を詰めるとアームで引き寄せ噛み付いた後に突き飛,会进行用手臂牵引过来捕捉，之后再推开,46,36
+397,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6B80,0x000D5B80,いがヒットすると少し浮く爆弾を出してくる。距離,虽然威力很小但命中后会令机体上浮。近距离下，,46,44
+398,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6BB0,0x000D5BB0,を切り替えてくるウィルス。中距離では、威力はな,的距离切换攻击方式。在中距离下，会射出炸弹，,46,44
+399,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6BE0,0x000D5BE0,自らはあまり積極的に動かず、相手との距離で攻撃,这种病毒自己很少进行积极的行动，根据与对方,46,42
+400,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6C10,0x000D5C10,クルを決めてきたりする。,冲撞攻击。,24,10
+401,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6C2C,0x000D5C2C,き出して突進攻撃をしてきたり、地面に降りてタッ,落在地面上之后会放出,46,20
+402,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6C5C,0x000D5C5C,と耐久力を削ってくる。接近されるとノコギリを突,耐久力。接近后，会伸出电锯进行冲刺攻击，,46,40
+403,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6C8C,0x000D5C8C,基本戦法は遠距離からの小型ミサイルで、じわじわ,基本战法是从远距离发射小型导弹，缓慢削弱,46,40
+404,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6CBC,0x000D5CBC,アを張って仲間を支援する事もある。,对同伴进行支援。,34,16
+405,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6CE0,0x000D5CE0,ーを放つようになる。距離が離れるとブロックバリ,拉开距离之后，会放出遮挡防壁，,46,30
+406,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6D10,0x000D5D10,るが威力はあまりない。性能が少し上がるとレーザ,威力不大。性能提高后会射出激光。,46,32
+407,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6D40,0x000D5D40,光学兵器を搭載したウィルス。近づくと電撃を発す,搭载了光学兵器的病毒。接近后会发出点击，但,46,42
+408,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6D70,0x000D5D70,スクラッシュのプラズマコレダーは強力。,等离子体释放也很强力。,38,22
+409,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6D98,0x000D5D98,スタンガンで動きを止めてから攻めてくる。フォー,电击枪令对方的行动停止后进行攻击。超杀的,46,40
+410,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6DC8,0x000D5DC8,はパルスレーザーとレーザーライフル、近距離では,使用脉冲激光和激光步枪，近距离下使用,46,36
+411,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6DF8,0x000D5DF8,行動が機敏になり所有兵器も増えている。中距離で,行动变得敏捷，拥有的兵器也有所增加。在中距离下,46,46
+412,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6E28,0x000D5E28,洗脳状態の月菜が操る。洗脳されていない時に比べ,洗脑状态的月菜操纵的。和未洗脑的时候相比，,46,42
+413,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6E58,0x000D5E58,かし装甲は低めなので防御面に不安あり。,装甲很低，防御方面还留有隐患。,38,30
+414,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6E80,0x000D5E80,敵の頭上に落ちる。近距離攻撃も多彩になった。し,敌人的头上。近距离攻击也很丰富多彩。但因为,46,42
+415,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6EB0,0x000D5EB0,いる。真上に放つ電子矢は遮蔽物を完全に無視して,向上方射出的电子箭会完全无视障碍物落到,46,38
+416,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6EE0,0x000D5EE0,ラムで、ＶＳＳ次期シュミクラムのテストを兼ねて,同时也是ＶＳＳ下一届机体的测试。,46,32
+417,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6F10,0x000D5F10,α部隊として行動するようになった月菜のシュミク,月菜作为α部队进行行动之后的机体，,46,34
+418,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6F40,0x000D5F40,率が高く強力。,十分强力。,14,10
+419,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6F50,0x000D5F50,ングレーザーを射出するフォースクラッシュは命中,射出无数跟踪激光的必杀命中率很高，,46,34
+420,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6F80,0x000D5F80,ない。最初はよくずっこける。ただ、無数のホーミ,最开始经常绊倒。不过，,46,22
+421,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6FB0,0x000D5FB0,ーとしてまだ未熟な為性能を１００％引き出せてい,成熟，所以不能引出１００％的性能。,46,34
+422,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D6FE0,0x000D5FE0,TYPE-02Hと同性能だが、月菜はシュミクラムユーザ,与TYPE-02H性能相同，但月菜作为机师还不够,46,40
+423,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7010,0x000D6010,にこちらの攻撃をバリアで防ぐ事がある。,用防壁对攻击进行防御。,38,22
+424,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7038,0x000D6038,弾を放つ。接近時の放電も規模が増しており、さら,接近时的放电规模也有所增加，另外还能够,46,38
+425,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7068,0x000D6068,ンだが、遮蔽物をも回り込んで移動するホーミング,但会放出能够绕开障碍物的追踪弹。,46,32
+426,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7098,0x000D6098,TYPE-09Aを強化しており、同様に遠距離撹乱がメイ,将TYPE-09A强化后，同样是以远距离搅乱攻击为主，,46,46
+427,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D70C8,0x000D60C8,非常に厄介。,很危险。,12,8
+428,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D70D8,0x000D60D8,電磁ネットはホーミングする上、当たると感電して,电磁网不但能够跟踪，命中之后还会陷入出点状态，,46,46
+429,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7108,0x000D6108,ら強引に近距離攻撃を狙ってくる。遠距離戦で放つ,强制转换为近距离攻击。远距离战斗中放出的,46,40
+430,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7138,0x000D6138,TYPE-07FLを強化しており、装甲の高いダッシュか,将TYPE-07FL强化后，可以从高装甲的冲撞攻击中,45,43
+431,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7168,0x000D6168,拡散エネルギーボールも高威力なので要注意。,的攻击，威力很高需要注意。,42,26
+432,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7194,0x000D6194,ダウン中に喰らうと非常に危険。たまに出してくる,被击中，会非常危险。偶尔会进行扩散能量球,46,40
+433,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D71C4,0x000D61C4,る。上空から真下にレーザーを投下し続ける攻撃は,从正上方持续射下激光的攻击，如果在倒地的状态下,46,46
+434,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D71F4,0x000D61F4,TYPE-03Rを強化しており、光学兵器の数も増えてい,将TYPE-03R强化后，光学兵器的数量有所增加。,46,42
+435,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7224,0x000D6224,射してくる。,追踪激光。,12,10
+436,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7234,0x000D6234,距離時は回避の難しいホーミングレーザーを２発発,会射出两发难以回避的,46,20
+437,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7264,0x000D6264,いる。空中からの突き攻撃には感電効果が付加。遠,从空中的突进攻击增加了触电效果。在远距离下，,46,44
+438,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7294,0x000D6294,TYPE-02Hを強化しており、移動速度がさらに増して,将TYPE-02H强化之后，移动速度提高得更快。,46,40
+439,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D72C4,0x000D62C4,生させる。対空兵器がないと厳しい。,没有对空兵器会难以对付。,34,24
+440,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D72E8,0x000D62E8,しまう。接近すると、地面に降りて周囲に電撃を発,接近之后，会降落在地面上向周围发出电击。如果,46,44
+441,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7318,0x000D6318,ジは皆無だが、凄まじい勢いで弾かれる為混乱して,但目标会被猛地弹开，陷入混乱。,46,30
+442,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7348,0x000D6348,化したシュミクラム。重力弾はヒットしてもダメー,重力弹即使命中也基本没有伤害，,46,30
+443,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7378,0x000D6378,ＶＳＳ社の浮遊タイプで、後方からの撹乱攻撃に特,ＶＳＳ社的浮游型机体，专从后方进行搅乱攻击。,46,44
+444,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D73A8,0x000D63A8,追い討ちを入れられてしまう。,倒地追击。,28,10
+445,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D73C8,0x000D63C8,に放り投げられる。その後は対空追い討ちやダウン,随后会进行对空追击或是,46,22
+446,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D73F8,0x000D63F8,打撃を狙ってくる。至近距離になると掴まれて真上,至近距离下，会被抓起扔到正上方。,46,32
+447,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7428,0x000D6428,うな動きをする。意外と機動力があり、接近しての,机动力意外地高，接近之后会进行打击类攻击。,46,42
+448,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7458,0x000D6458,ＶＳＳ社の多脚タイプのシュミクラムで、昆虫のよ,ＶＳＳ的多脚型机体，会像昆虫一样移动。,46,38
+449,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7488,0x000D6488,ら、強烈な頭突き攻撃を出してくるので要注意。,会用头部进行强力的撞击，需要注意。,44,34
+450,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D74B8,0x000D64B8,るのでじっとしていると危険。上空にジャンプした,所以原地不动会很危险。跳向上空之后，,46,36
+451,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D74E8,0x000D64E8,強引に攻撃してくる。ラインレーザーを多用してく,经常使用直线激光，,46,18
+452,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7518,0x000D6518,級シュミクラム。装甲が厚く、ダメージを気にせず,装甲很厚，会不在意伤害地强制进行攻击。,46,38
+453,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7548,0x000D6548,遠距離支援用にカスタマイズされたＶＳＳ社の重量,改造为远距离支援用的ＶＳＳ社重量级机体。,46,40
+454,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7578,0x000D6578,から斜め下に突きを出す攻撃の性能が高い。,很高。,40,6
+455,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D75A4,0x000D65A4,ドで突進する攻撃時は非常に装甲が厚くなる。空中,装甲会变得非常强。从空中斜下突击的攻击性能,46,42
+456,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D75D4,0x000D65D4,ーな攻めをみせる。基本的に装甲は薄いが、シール,基本上装甲很薄，但是用盾进行冲刺攻击时,46,38
+457,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7604,0x000D6604,動で相手を撹乱させ、空中戦を主体としたトリッキ,搅乱对手，以空中战为主进行奇袭。,46,32
+458,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7634,0x000D6634,ＶＳＳ社の軽量級シュミクラム。速度のある旋回行,ＶＳＳ社的轻量级机体。会快速地进行旋转移动，,46,44
+459,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7664,0x000D6664,シュ技も豊富な、まさに悪魔のような強さを誇る。,具备恶魔般的强大力量。,46,22
+460,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7694,0x000D6694,握る。近距離・遠距離共に得意で、フォースクラッ,近距离和远距离都很擅长，超杀技能也很丰富，,46,42
+461,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D76C4,0x000D66C4,の嫌らしいトラップ兵器を駆使し、戦いの主導権を,使用大量的阴险陷阱兵器来掌握战斗的主导权。,46,42
+462,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D76F4,0x000D66F4,見の通り、地上より空中にいる事の方が多い。数々,在空中的时间要多于地面。,46,24
+463,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7724,0x000D6724,悪魔のような風貌の漆黒のシュミクラムを操る。外,有着恶魔般外表的漆黑机体。和外表一样，,46,38
+464,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7754,0x000D6754,各種シールドで防がれる。,对方的攻击。,24,12
+465,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7770,0x000D6770,してからの突進攻撃も性能が高い。こちらの攻撃も,性能也很高。能够用各种盾来防御,46,30
+466,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D77A0,0x000D67A0,らうと耐久力を一気に減らされる恐れがある。威嚇,耐久力有可能会快速下降。威吓之后的突进攻击,46,42
+467,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D77D0,0x000D67D0,武器から繰り出す攻撃はどれも凶悪。１度攻撃を喰,进行攻击，各种攻击都很凶恶。被命中一次之后，,46,44
+468,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7800,0x000D6800,飛刀最強のシュミクラム。複数の腕を持ち、様々な,飞刀最强的机体。有着很多手臂，能用各种武器,46,42
+469,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7830,0x000D6830,機雷をばら撒く攻撃も出してくる。,浮游机雷。,32,10
+470,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7854,0x000D6854,的。ハードモードでは砲塔を回転させ全方向に浮遊,困难模式下，炮塔会旋转向全方向放出,46,34
+471,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7884,0x000D6884,空にミサイルを放つ攻撃は威力が高く喰らうと致命,导弹的攻击威力很高，命中之后会造成致命伤。,46,42
+472,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D78B4,0x000D68B4,ャノン砲は弾速があり見づらくヒットしやすい。上,弹速很高难以看清容易命中。向上方放出,46,36
+473,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D78E4,0x000D68E4,凶悪な射撃兵器を多数搭載した最強のウィルス。キ,搭载了大量凶恶射击兵器的最强的病毒。加农炮,46,42
+474,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7914,0x000D6914,り離し地雷代わりにもしてくる。,当做地雷使用。,30,14
+475,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7934,0x000D6934,用してきたりする。ハードモードではチェーンを切,困难模式下，也会扔出链条,46,24
+476,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7964,0x000D6964,中距離ではチェーンを切り離して射撃兵器として使,强敌。在中距离下，会扔出链条当做射击武器。,46,42
+477,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7994,0x000D6994,のシュミクラム。機動力が高くリーチもある強敵。,最强等级的机体。机动力很高，攻击范围也很广的,46,44
+478,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D79C4,0x000D69C4,特殊なチェーンを自在に操る、飛刀でも最強クラス,能够熟练操纵特殊的链条，在飞刀之中也属于,46,40
+479,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D79F4,0x000D69F4,ど高くないのが救い。,装甲并不算太高。,20,16
+480,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7A0C,0x000D6A0C,高いので近づかれないようにしよう。装甲はそれほ,所以尽量不要接近。幸好，,46,24
+481,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7A3C,0x000D6A3C,シュで逃げていては捕まってしまう。コンボ技術も,逃开也会被抓到。连续技的技术也很高，,46,36
+482,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7A6C,0x000D6A6C,え速度のある突進技を持っているので直線的なダッ,速度很快的突进技能，所以如果在直线上用冲刺,46,42
+483,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7A9C,0x000D6A9C,機動性能が非常に高い格闘用シュミクラム。そのう,机动性能非常高的格斗用机体。并且还能够使用,46,42
+484,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7ACC,0x000D6ACC,空兵器がないとかなり苦戦を強いられるだろう。,大概会陷入很艰苦的战斗。,44,24
+485,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7AFC,0x000D6AFC,向に爆弾を転がしだして手がつけられなくなる。対,变得难以对付。如果没有对空兵器，,46,32
+486,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7B2C,0x000D6B2C,ライフルを乱射してくる。難易度によっては、全方,乱射。根据难度不同，可能会全方位地扔出炸弹，,46,44
+487,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7B5C,0x000D6B5C,距離攻撃を狙ってくる。距離が離れるとスナイパー,远距离攻击。拉开距离之后会以狙击步枪进行,46,40
+488,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7B8C,0x000D6B8C,滞空時間の長いジャンプで周囲を飛び跳ねながら遠,回以滞空时间很长的跳跃跳向周围，进行,46,36
+489,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7BBC,0x000D6BBC,多いので、中間距離での迂闊な射撃は危険。,在中距离大意地进行射击十分危险。,40,32
+490,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7BE8,0x000D6BE8,この攻撃はこちらの射撃に合わせて出してくる事が,这种攻击经常在对方射击的时候用出，所以,46,38
+491,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7C18,0x000D6C18,速で間合いを詰め、強力な斬り攻撃を出してくる。,距离，然后放出强力的斩击。,46,26
+492,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7C48,0x000D6C48,ミクラム。普段はのろのろと歩いているが突然超高,类型。平时走得很慢，但会突然以超高速拉近,46,40
+493,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7C78,0x000D6C78,金色の鎧を纏った飛刀の中でも強い部類に入るシュ,穿有金色铠甲的机体，在飞刀之中也属于强大的,46,42
+494,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7CA8,0x000D6CA8,ので非常に厄介。,非常难对付。,16,12
+495,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7CBC,0x000D6CBC,距離が離れるとウィルスの他に浮遊機雷もばら撒く,拉开距离后，除了病毒还会扔出浮游机雷，,46,38
+496,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7CEC,0x000D6CEC,撃で消せるが弾道の低い攻撃でないと当たらない。,但只有弹道很低的攻击才能够命中。,46,32
+497,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7D1C,0x000D6D1C,巨大ウィルス。湧き出る小型ウィルスはこちらの攻,巨大病毒。对方的攻击可以消灭小型病毒，,46,38
+498,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7D4C,0x000D6D4C,小型ウィルスをばら撒く空母のような役目を果たす,四处撒下小型病毒，完成航空母舰般任务的,46,38
+499,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7D7C,0x000D6D7C,ＶＳＳの精鋭、α部隊が誇るシュミクラムの一機。,ＶＳＳ的精锐，α部队中荣耀的一类机体。,46,38
+500,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7DAC,0x000D6DAC,食になる。こちらの攻撃を防御で防ぐ事もある。,也有防御住对方攻击的可能。,44,26
+501,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7DDC,0x000D6DDC,り、うかつに遠距離攻撃を出すとジャンプ斬りの餌,如果随意进行远距离攻击，会成为跳斩的目标。,46,42
+502,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7E0C,0x000D6E0C,なか逃げられない。上空からの急襲も得意としてお,所以难以逃开。也很擅长从上空进行奇袭，,46,38
+503,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7E3C,0x000D6E3C,からの打撃技は、踏み込んで攻撃してくるのでなか,接近后的打击技，因为同时会拉近距离，,46,36
+504,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7E6C,0x000D6E6C,近・中距離で多彩な打撃攻撃を仕掛けてくる。接近,在近距离和中距离下，会进行多彩的打击类攻击。,46,44
+505,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7E9C,0x000D6E9C,付き合わないようにしよう。,近距离战斗。,26,12
+506,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7EB8,0x000D6EB8,厚く、強引に出してくるので、あまり近距離戦には,因为会强制展开，所以尽量不要在,46,30
+507,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7EE8,0x000D6EE8,振り回す攻撃は喰らうと大ダメージになる。装甲が,会造成很大的伤害。装甲很厚，,46,28
+508,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7F18,0x000D6F18,速めで、近距離攻撃を狙ってくる。左右のアームを,会进行近距离攻击。左右的手臂抡起来之后，,46,40
+509,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7F48,0x000D6F48,タンク型の大型ウィルス。タンク型にしては移動は,坦克型的大型病毒。虽然是坦克型，移动却很快，,46,44
+510,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7F78,0x000D6F78,を持ったナパームを出してくる。,凝固汽油弹。,30,12
+511,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7F98,0x000D6F98,ング精度が高め。ハードモードでは強力な相殺能力,困难模式下，会射出抵消能力很强的,46,32
+512,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7FC8,0x000D6FC8,う。左右の肩ポッドから出すホーミング弾はホーミ,左右肩部的弹仓会射出追踪弹，追踪精度很高。,46,42
+513,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D7FF8,0x000D6FF8,距離からのガトリング砲はダッシュで上手く逃げよ,用加林机枪攻击，这时要用冲刺逃开。,46,34
+514,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8028,0x000D7028,強力な遠距離兵器を多数搭載したシュミクラム。遠,搭载了大量强力远距离兵器的机体。会从远距离,46,42
+515,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8058,0x000D7058,面に突き刺しダウン追い討ちしてくる事もある。,所以也会用于倒地追击。,44,22
+516,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8088,0x000D7088,ミサイルも動きを止められるので危険。ドリルを地,停止，也很危险。钻头能够向地面刺下，,46,36
+517,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D80B8,0x000D70B8,非常に高性能なので、要注意。中距離で出すドリル,需要注意。中距离射出的钻头导弹，能够令移动,46,42
+518,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D80E8,0x000D70E8,離から出すドリルアタックはホーミング精度が高く,使出的钻头攻击，跟踪精度很高，是高性能的攻击，,46,46
+519,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8118,0x000D7118,高速機動で追跡し、ドリルで攻撃をしてくる。中距,以高速机动进行追击，以钻头进行攻击。在中距离下,46,46
+520,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8148,0x000D7148,比べて少々弱くなっている。,要稍微弱一些。,26,14
+521,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8164,0x000D7164,攻撃を当てるのが難しい。逆に近距離戦はコウガに,相反，如果是近距离战斗，和甲贺相比,46,34
+522,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8194,0x000D7194,を乱発してくる。上空からの攻撃が多く、こちらの,经常从上空进行攻击。难以用攻击命中。,46,36
+523,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D81C4,0x000D71C4,ちらはコウガと違い、中距離を維持しながら手裏剣,不同，会维持着中距离乱射飞镖。,46,30
+524,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D81F4,0x000D71F4,コウガと同じく忍者の風貌をしたシュミクラム。こ,和甲贺同样是有着忍者外形的机体。这个机体和甲贺,46,46
+525,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8224,0x000D7224,牽制で出してくる単発ガンも速度があり嫌らしい。,用于牵制的单发枪击速度很高，比较卑鄙。,46,38
+526,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8254,0x000D7254,発射してくる。遮蔽物の多いマップではやっかい。,在障碍物很多的地图中会难以对付。,46,32
+527,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8284,0x000D7284,っては、距離が離れると全方位にコンタクトボムを,拉开距离之后会射出全方位接触炸弹。,46,34
+528,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D82B4,0x000D72B4,からの強烈なパンチ攻撃を出してくる。難易度によ,进行强烈的拳头攻击。根据难度不同，,46,34
+529,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D82E4,0x000D72E4,動きが鈍く重いが装甲が厚く、たまに上空へ飛んで,动作迟钝，装甲很厚，偶尔会飞上半空,46,34
+530,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8314,0x000D7314,をしてくる。,践踏攻击。,12,10
+531,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8324,0x000D7324,意。あまり接近するとタックルからの踏みつけ攻撃,如果太靠近，会进行冲撞攻击并追加,46,32
+532,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8354,0x000D7354,放射器はこちらの防御兵器では相殺できないので注,是防御兵器无法抵消的攻击方式，需要注意。,46,40
+533,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8384,0x000D7384,などの兵器を所有しており、どれも強力。特に火炎,的兵器，无论哪种都很强力。特别是火焰放射器,46,42
+534,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D83B4,0x000D73B4,車両タイプの大型ウィルス。レーザー、火炎放射器,车辆型的大型病毒。拥有激光、火焰放射器之类,46,42
+535,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D83E4,0x000D73E4,ドでこちらの攻撃を遮断する事がある。,对方的攻击。,36,12
+536,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D840C,0x000D740C,ダウンさせられてしまう。ハードモードではシール,困难模式下，会用盾遮断,46,22
+537,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D843C,0x000D743C,チがあり、地面を何度も激しく叩く攻撃を喰らうと,在地面上受到几次猛烈攻击之后会倒地。,46,36
+538,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D846C,0x000D746C,ピョン跳ねながら接近してくる。手が長いのでリー,接近过来。手很长，攻击范围较广，,46,32
+539,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D849C,0x000D749C,旧型のシュミクラムだが、装甲が厚い。常にピョン,虽然是旧型的机体，但装甲很厚。经常轻跳着,46,40
+540,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D84CC,0x000D74CC,とさらに百烈拳を出してくる。,百裂拳。,28,8
+541,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D84EC,0x000D74EC,本の腕で同時に殴るパンチは痛い。ハードモードだ,会很疼。困难模式下会使出,46,24
+542,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D851C,0x000D751C,を狙ってくる。一発一発が重く威力が高め。特に４,每一发攻击威力都很高。特别是四只手同时的拳击,46,44
+543,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D854C,0x000D754C,らの攻撃を横飛びで避けつつタックルからのコンボ,躲避攻击，并在回避之后用冲撞攻击连接连续技。,46,44
+544,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D857C,0x000D757C,打撃技オンリーの完全近距離型シュミクラム。こち,只有打击技能的完全近距离型机体。会横向跳开,46,42
+545,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D85AC,0x000D75AC,られる。,封住。,8,6
+546,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D85B8,0x000D75B8,面に発射されるので、ダッシュ攻撃のルートを封じ,冲刺攻击的路线会被,46,18
+547,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D85E8,0x000D75E8,らしい行動が得意。停滞機雷は見づらい上に敵の側,停滞机雷难以发现，而且会发射到敌人侧面，,46,40
+548,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8618,0x000D7618,榴弾を投げてから別の攻撃を仕掛けてきたりといや,继续进行其他攻击这种卑鄙的战法。,46,32
+549,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8648,0x000D7648,メインの攻撃は中間距離からのスライディング。手,主要攻击是中距离的滑踢。擅长扔出手榴弹之后,46,42
+550,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8678,0x000D7678,ではクローを何度も突き出して突進してくる。,多次刺出利爪。,42,14
+551,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D86A4,0x000D76A4,して手元に引き寄せようとしてくる。ハードモード,拖向自己身边。困难模式下，会冲刺着,46,34
+552,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D86D4,0x000D76D4,ダメージを狙ってくる。中距離では、クローを伸ば,巨大的伤害。中距离下，会伸出利爪将对方,46,38
+553,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8704,0x000D7704,ー技は多彩で、アッパーで浮かせてクロー回転で大,会用上钩将对方浮起然后用利爪旋转造成,46,36
+554,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8734,0x000D7734,両手に備え付けられた巨大なクローが主武器。クロ,双手装备的巨大利爪是主要武器。爪技十分多彩，,46,44
+555,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8764,0x000D7764,で一気にたたみかけよう。,来迅速解决吧。,24,14
+556,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8780,0x000D7780,くるので注意。打撃技は所有していないので格闘戦,因为没有打击技能，所以还是用格斗战,46,34
+557,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D87B0,0x000D77B0,ードではまれに障害物を貫通するビームを発射して,偶尔会发射能够贯穿障碍物的激光，需要注意。,46,42
+558,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D87E0,0x000D77E0,弾をバラ撒いてくるので中距離戦に強い。ハードモ,射出子弹，所以适合中距离战斗。困难模式下，,46,42
+559,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8810,0x000D7810,完全遠距離支援型のシュミクラムで、前方広範囲に,完全远距离支援型的机体，能够向前方广范围,46,40
+560,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8840,0x000D7840,合いを詰め、爪で何度も引っ掻いてくる事がある。,进行抓击。,46,10
+561,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8870,0x000D7870,斜め上に手を伸ばしてくる。ジャンプして一気に間,会跳着迅速拉近距离，用利爪多次,46,30
+562,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D88A0,0x000D78A0,が伸びるのでリーチは長い。また、上空に逃げても,很广。即使逃到空中，也会向斜上方伸手。,46,38
+563,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D88D0,0x000D78D0,さく跳ねながら接近し近距離攻撃を狙ってくる。手,接近，进行近距离攻击。手会伸得很远，攻击范围,46,44
+564,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8900,0x000D7900,忍者のような風貌の非常に身軽なシュミクラム。小,有着忍者般的外表，身法轻巧的机体。会轻跳着,46,42
+565,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8930,0x000D7930,逃げるので、直線的な攻撃は当たりにくい。,所以直线攻击难以命中。,40,22
+566,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D895C,0x000D795C,風に当たるとダウンしてしまう。常に軸をずらして,后会倒地。因为常常会偏离中心逃开，,46,34
+567,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D898C,0x000D798C,肩ポッドから大量のナパーム弾を放つ時がある。爆,肩部弹仓会射出大量的凝固汽油弹。被爆炸波及,46,42
+568,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D89BC,0x000D79BC,る。赤いエネルギー弾は壁に貼りつく効果がある。,红色的能量弹会贴在墙上。,46,24
+569,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D89EC,0x000D79EC,遠距離支援型シュミクラム。常に距離をとろうとす,远距离支援型机体。经常会拉开距离。,46,34
+570,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8A1C,0x000D7A1C,数勝負で、次々と攻撃を繰り出してくる。,会不断地进行攻击。,38,18
+571,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8A44,0x000D7A44,端に接近戦を挑んでくる。接近戦は威力はないが手,接近战虽然没有威力，但攻击频繁，,46,32
+572,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8A74,0x000D7A74,乱しないよう注意が必要。こちらが接近すると、途,不要被搅乱。如果接近，会突然接近进行攻击。,46,42
+573,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8AA4,0x000D7AA4,遠距離攻撃は威力は低いが少し浮くので、操作が混,远距离攻击威力很低，但会浮空，需要注意操作,46,42
+574,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8AD4,0x000D7AD4,中間距離をうろつきながら遠距離攻撃をしてくる。,在中距离乱转，然后从远距离攻击。,46,32
+575,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8B04,0x000D7B04,ジャンプして攻撃してくるので要注意。,跳跃之后的攻击。,36,16
+576,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8B2C,0x000D7B2C,ンプ射撃の追い討ちを狙ってくる。空中に逃げても,即使逃到空中，也要注意,46,22
+577,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8B5C,0x000D7B5C,力があるので注意。蹴りに当たると浮かされ、ジャ,被踢击命中后会浮空，然后追加跳跃射击。,46,38
+578,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8B8C,0x000D7B8C,トンファーや蹴りを狙ってくる。トンファーは突進,旋棍或踢击进行攻击。旋棍有突进力，需要注意。,46,44
+579,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8BBC,0x000D7BBC,スピードが速く、常に射撃しながら追いかけてきて,速度很快，经常在射击的同时进行追击，用,46,38
+580,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8BEC,0x000D7BEC,ー弾を発射してくる事がある。,能量弹。,28,8
+581,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8C0C,0x000D7C0C,険。ごくまれに巨大な銃器を出して強力なエネルギ,偶尔会拿出巨大的枪支发射强力的,46,30
+582,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8C3C,0x000D7C3C,サイルに当たると長時間行動不能になり、非常に危,对方长时间会无法移动，非常危险。,46,32
+583,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8C6C,0x000D7C6C,突に出してくる突進は、スピードがある。ドリルミ,突然进行冲刺，速度很快。钻头导弹命中之后，,46,42
+584,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8C9C,0x000D7C9C,カプチーノの性能を上げたウィルス。遠距離から唐,将卡普奇诺的性能提高了之后的病毒。从远距离会,46,44
+585,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8CCC,0x000D7CCC,離攻撃を持っていないので、離れて戦おう。,所以还是远离后战斗吧。,40,22
+586,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8CF8,0x000D7CF8,ると、たまに地雷を仕掛ける事がある。強力な遠距,因为没有强力的远距离攻击方式，,46,30
+587,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8D28,0x000D7D28,撃技を軸に一気に懐に潜り込んでくる。距離が離れ,迅速接近对方。拉开距离之后，偶尔会设置地雷。,46,44
+588,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8D58,0x000D7D58,が厚めなのが特徴。移動は遅いが、各種突進系の打,特征。移动缓慢，但会以各种突进系的打击技,46,40
+589,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8D88,0x000D7D88,歩きながら距離を詰め、接近戦を挑んでくる。装甲,走着拉近距离，会进行接近战。装甲很厚是它的,46,42
+590,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8DB8,0x000D7DB8,て全弾喰らうと大ダメージになるので注意。,伤害很大，需要注意。,40,20
+591,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8DE4,0x000D7DE4,大ダメージ。７方向に発射される電子弓は、密着し,电子弓能向７个方向发射，近距离下全部命中的话,46,44
+592,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8E14,0x000D7E14,ると当たりやすい。たまに仕掛ける地雷は当たると,偶尔会设置地雷，碰到后会受到很大伤害。,46,38
+593,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8E44,0x000D7E44,スナイパーライフルを発射してくる。じっとしてい,狙击步枪攻击。原地不动会容易被击中。,46,36
+594,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8E74,0x000D7E74,飛刀の遠距離支援型シュミクラム。距離が離れると,飞刀的远距离支援型机体。拉开距离或，会用,46,40
+595,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8EA4,0x000D7EA4,ポン弾を発射してくるが、威力は皆無。,但基本没有威力。,36,16
+596,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8ECC,0x000D7ECC,どないものの、装甲を崩す効果が高い。まれにピン,但对于破坏装甲效果很好。偶尔会发射反弹子弹，,46,44
+597,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8EFC,0x000D7EFC,てくるので注意。近距離で出すドリルは威力はさほ,近距离使用的钻头虽然威力不高，,46,30
+598,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8F2C,0x000D7F2C,歩き回っている。ある程度近づくと変形して突進し,如果接近到一定程度就会变形冲刺，需要注意。,46,42
+599,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8F5C,0x000D7F5C,珍しい二足歩行型のウィルス。常にのらりくらりと,少见的双脚步行病毒。经常乱转，,46,30
+600,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8F8C,0x000D7F8C,避けつつ裏拳などを狙ってくる事もある。,里拳进行攻击。,38,14
+601,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8FB4,0x000D7FB4,シメに使ってくる事もある。こちらの攻撃を読んで,能够看穿对方的攻击，一边回避一边用,46,34
+602,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D8FE4,0x000D7FE4,れる。フォースクラッシュの双氣武雷掌をコンボの,超杀的双气武雷掌会作为连续技的收尾。,46,36
+603,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9014,0x000D8014,格闘戦の鬼。近づかれると怒涛のコンボを叩き込ま,接近后会受到怒涛般的连续技攻击。,46,32
+604,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9044,0x000D8044,何年も前にシュミクラムユーザーを降りた八木澤は,几年之前离开机体战斗的八木泽是格斗战之鬼。,46,42
+605,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9074,0x000D8074,カン砲やホーミングミサイルも強力。,火神炮和追踪导弹也很强力。,34,26
+606,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9098,0x000D8098,る。遠距離兵器も強力な装備が充実しており、バル,远距离兵器也装备了充实的强力武器，,46,34
+607,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D90C8,0x000D80C8,パイルバンカーやスピンキックの接近戦を狙ってく,用射桩枪和刺踢进行接近战。,46,26
+608,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D90F8,0x000D80F8,ーニングスターやタックルで中距離から攻め立て、,用流星锤和冲撞从中距离攻击，,46,28
+609,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9128,0x000D8128,彩音の性格上基本戦法は接近してからの格闘戦。モ,根据彩音的性格，战法基本上是接近后的格斗战。,46,44
+610,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9158,0x000D8158,非常に心強い存在となるだろう。,可以依靠的存在。,30,16
+611,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9178,0x000D8178,いタックル攻撃を出す。仲間として活動する場合は,作为同伴活动的情况下，是个非常,46,30
+612,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D91A8,0x000D81A8,なりの強さを発揮する。敵に近づかれると装甲の厚,接近敌人之后，会使出装甲很厚的冲撞攻击。,46,40
+613,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D91D8,0x000D81D8,雷を仕掛ける戦術を展開。遮蔽物の多い場所ではか,在遮蔽物多的地方，能够发挥很强的效果。,46,38
+614,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9208,0x000D8208,常に距離を取り、遮蔽物に隠れコンタクトボムと地,总是拉开距离，藏在遮蔽物后设置接触炸弹和地雷。,46,46
+615,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9238,0x000D8238,あまり効果的な技は所有していない。,有效果的技能很少。,34,18
+616,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D925C,0x000D825C,る。中距離戦は強いが、近距離、遠距離戦になると,中距离战斗很强，但近距离和远距离下,46,34
+617,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D928C,0x000D828C,にいると即座にフォースクラッシュを出す傾向があ,会立刻使出超杀。,46,16
+618,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D92BC,0x000D82BC,張りつつ停滞機雷を仕掛ける戦法をとる。敵が空中,同时会设置停滞机雷。如果敌人在空中，,46,36
+619,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D92EC,0x000D82EC,軍仕様のシュミクラム。中距離からの射撃で弾幕を,军队的机体。中距离的射击会成为弹幕，,46,36
+620,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D931C,0x000D831C,ていく。,削减。,8,6
+621,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9328,0x000D8328,などに少しずつ当たってじわじわと耐久力を削られ,击中的话耐久力也会被逐渐,46,24
+622,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9358,0x000D8358,つつ炸裂弾を狙ってくる。直撃は避けられても破片,并适时射出炸裂弹。即使能够避开直击，被弹片,46,42
+623,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9388,0x000D8388,遠距離型だが、こちらは攻撃的。手榴弾をばら撒き,远距离型，但却很有攻击性。会乱扔手榴弹，,46,40
+624,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D93B8,0x000D83B8,ＦＬＡＫの標準仕様シュミクラム。也駆喪と同じく,ＦＬＡＫ的标准系列机体。和也驱丧同样是,46,38
+625,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D93E8,0x000D83E8,してくるので用心しよう。,需要小心。,24,10
+626,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9404,0x000D8404,しその分威力は少なめ。接近されるとタックルを出,接近之后会进行冲撞攻击，,46,24
+627,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9434,0x000D8434,通常のものより小さく発見しにくいので注意。しか,难以发现，需要注意。但是威力也会因此减少。,46,42
+628,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9464,0x000D8464,遊機雷をばら撒きつつ地雷を設置していく。地雷は,浮游机雷，并设置地雷。地雷比一般规格要小，,46,42
+629,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9494,0x000D8494,ＦＬＡＫの標準仕様のシュミクラム。遠距離から浮,ＦＬＡＫ的标准系列机体。远距离下会撒出,46,38
+630,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D94C4,0x000D84C4,ンは、ビットから超高速で弾丸が射出される。,射出超高速的子弹。,42,18
+631,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D94F0,0x000D84F0,非常に難しい。フォースクラッシュのビットキャノ,超杀的浮游加农炮，会从浮游炮中,46,30
+632,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9520,0x000D8520,撃する上に時間差で攻撃するものもあり避けるのは,并且还会产生时间差，非常难以避开。,46,34
+633,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9550,0x000D8550,をしたシュミクラム。ビット兵器は本体とは別に攻,浮游炮兵器与本体分别进行攻击，,46,30
+634,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9580,0x000D8580,多種多様なビット兵器を使いこなす独特のフォルム,使用多种多样的浮游炮兵器，外形独特的机体。,46,42
+635,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D95B0,0x000D85B0,分から近づくことはまずない。,接近对方。,28,10
+636,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D95D0,0x000D85D0,高性能追尾ミサイルを放つ。近距離戦は苦手で、自,不擅长近距离战，不会主动,46,24
+637,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9600,0x000D8600,ルで狙い撃ちしてくる。距離を詰められると単発の,中距离下会放出单发的高性能追踪导弹。,46,36
+638,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9630,0x000D8630,遠距離戦を好む。距離が離れるとスナイパーライフ,拉开距离后会用狙击步枪攻击。,46,28
+639,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9660,0x000D8660,あきらと同じシュミクラム。あきらと違い、優哉は,和彰同样的机体。与彰不同，优哉喜欢远距离战。,46,44
+640,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9690,0x000D8690,系のフォースクラッシュを出す事がある。,使出乱舞系的超杀。,38,18
+641,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D96B8,0x000D86B8,遠距離戦は苦手で、あまり強力な攻撃はない。乱舞,不擅长远距离战斗，强力的攻击很少。会,46,36
+642,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D96E8,0x000D86E8,わしいフットワークを駆使し、相手を混乱させる。,烦人步法让对手混乱。,46,20
+643,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9718,0x000D8718,み、距離を詰めて打撃技を狙いにくる。独特の紛ら,经常拉近距离以进行打击攻击。利用独特的,46,38
+644,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9748,0x000D8748,優哉と同じシュミクラムだが、あきらは接近戦を好,虽然机体和优哉一样，但彰喜欢近战，,46,34
+645,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9778,0x000D8778,能性は無限に広がる。,无限地扩大。,20,12
+646,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9790,0x000D8790,げた完全オリジナル。装備する兵器によってその可,根据装备的不同兵器，其可能性能够,46,32
+647,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D97C0,0x000D87C0,ラム。透と優哉がカスタマイズを繰り返して作り上,透和优哉不断改造而做出的完全原创机体。,46,38
+648,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D97F0,0x000D87F0,西洋式の甲冑をモチーフにしたフォルムのシュミク,以西洋式甲胄为主要外形的机体。,46,30
+649,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9828,0x000D8828,ウィルス,病毒,8,4
+650,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9834,0x000D8834,シュミクラム,机体,12,4
+651,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9854,0x000D8854,正B,0矪,3,3
+652,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9858,0x000D8858,@ｵB,啻B,3,3
+653,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D985C,0x000D885C,0ｷB,卸B,3,3
+654,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D98A4,0x000D88A4,pﾏB,嘞B,3,3
+655,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D98A9,0x000D88A9,ﾐB,蠦,2,2
+656,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98B4,0x000D88B4,戦闘開始,战斗开始,8,8
+657,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98C0,0x000D88C0,オプション,选项,10,4
+658,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98CC,0x000D88CC,ファイル,文件,8,4
+659,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98D8,0x000D88D8,情報,情报,4,4
+660,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98E0,0x000D88E0,兵器開発,兵器开发,8,8
+661,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98EC,0x000D88EC,練習,练习,4,4
+662,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D98F4,0x000D88F4,兵器装備,兵器装备,8,8
+663,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9914,0x000D8914,ﾀ蕋,绣B,3,3
+664,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9918,0x000D8918,P蹌,`鏐,3,3
+665,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D991C,0x000D891C,占B,犺B,3,3
+666,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9924,0x000D8924,宣B,犻B,3,3
+667,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9928,0x000D8928,ﾀ顳,虚B,3,3
+668,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D992C,0x000D892C,戦B,犿B,3,3
+669,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9930,0x000D8930,戦B,犿B,3,3
+670,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9934,0x000D8934,0鵤,@闎,3,3
+671,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9938,0x000D8938,`鵤,p闎,3,3
+672,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D993C,0x000D893C,専B,犼B,3,3
+673,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9940,0x000D8940,ﾀ鵤,嘘B,3,3
+674,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9958,0x000D8958,戦B,犿B,3,3
+675,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D995C,0x000D895C,戦B,犿B,3,3
+676,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9960,0x000D8960,戦B,犿B,3,3
+677,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9964,0x000D8964,戦B,犿B,3,3
+678,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D9968,0x000D8968,`鍈,p鞡,3,3
+679,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000D996C,0x000D896C,戦B,犿B,3,3
+680,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D99C8,0x000D89C8,(´-｀).o○（新規作成）,(′-｀).o○（新建）,23,19
+681,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9A74,0x000D8A74,（変更しない）,（不变）,14,8
+682,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9A84,0x000D8A84,全弾発射,全弹发射,8,8
+683,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9A90,0x000D8A90,着地まで,落地之前,8,8
+684,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9AC0,0x000D8AC0,(新規作成),(新建),10,6
+685,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9B3C,0x000D8B3C,--- (ﾟ∀ﾟ).o○（新規作成） ---,--- (゜·゜).o○（新建） ---,30,28
+686,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9B68,0x000D8B68,ｴﾌｪｸﾄ,效果,5,4
+687,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9BA0,0x000D8BA0,[%02d] (確率%04d %%) (割込%04d %%) %s,[%02d] (概率%04d %%) (插入%04d %%) %s,37,37
+688,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9BC8,0x000D8BC8,まずコンボを登録すれ。,先登录连续技。,22,14
+689,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9C38,0x000D8C38,歩,步,2,2
+690,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9C40,0x000D8C40,味方,同伴,4,4
+691,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9C48,0x000D8C48,目標,目标,4,4
+692,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9C50,0x000D8C50,適当,适当,4,4
+693,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9C64,0x000D8C64,慣性,惯性,4,4
+694,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CB4,0x000D8CB4,その他,其他,6,4
+695,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CBC,0x000D8CBC,挑発,挑衅,4,4
+696,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CC4,0x000D8CC4,ＫＯ時,ＫＯ时,6,6
+697,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CCC,0x000D8CCC,勝利時,胜利时,6,6
+698,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CD4,0x000D8CD4,戦闘開始時,战斗开始时,10,10
+699,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CE0,0x000D8CE0,復帰時,复归时,6,6
+700,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CE8,0x000D8CE8,ﾀﾞﾒｰｼﾞ大,伤害大,8,6
+701,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9CF4,0x000D8CF4,ﾀﾞﾒｰｼﾞ小,伤害小,8,6
+702,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9D00,0x000D8D00,超技使用,超杀使用,8,8
+703,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9D0C,0x000D8D0C,迎撃,迎击,4,4
+704,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9D1C,0x000D8D1C,攻撃,攻击,4,4
+705,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9D6C,0x000D8D6C,---（弾は撃たない）---,---（射不出子弹）---,22,20
+706,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9D98,0x000D8D98,フェード,过渡,8,4
+707,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9DA4,0x000D8DA4,塗りつぶし,涂抹覆盖,10,8
+708,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9DB0,0x000D8DB0,加算アルファ,加算α,12,6
+709,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9DC0,0x000D8DC0,アルファブレンド,α混合,16,6
+710,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9DD4,0x000D8DD4,タイルパターン,防护类型,14,8
+711,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9E04,0x000D8E04,１００％減算,１００％减算,12,12
+712,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9E4C,0x000D8E4C,上下反転,上下反转,8,8
+713,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9E58,0x000D8E58,左右反転,左右反转,8,8
+714,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9E64,0x000D8E64,ノーマル,正常,8,4
+715,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9E90,0x000D8E90,【変更しない】,【无法更改】,14,12
+716,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9ECC,0x000D8ECC,【使用不可】,【无法使用】,12,12
+717,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9EDC,0x000D8EDC,煙（空中:大）,烟（空中:大）,13,13
+718,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9EEC,0x000D8EEC,煙（空中）,烟（空中）,10,10
+719,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9EF8,0x000D8EF8,超技効果線,超杀效果线,10,10
+720,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F14,0x000D8F14,衝撃波,冲击波,6,6
+721,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F1C,0x000D8F1C,相殺2,抵消2,5,5
+722,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F24,0x000D8F24,相殺1,抵消1,5,5
+723,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F2C,0x000D8F2C,メカ大破爆発,机械损毁爆炸,12,12
+724,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F3C,0x000D8F3C,電撃(緑),电击(绿),8,8
+725,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F48,0x000D8F48,電撃(青),电击(蓝),8,8
+726,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F54,0x000D8F54,ﾋｯﾄﾏｰｸ(実弾),HIT标志(子弹),12,13
+727,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F64,0x000D8F64,ﾋｯﾄﾏｰｸ(ﾚｰｻﾞｰ2),HIT标志(激光2),14,14
+728,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F74,0x000D8F74,ﾋｯﾄﾏｰｸ(ﾚｰｻﾞｰ1),HIT标志(激光1),14,14
+729,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F84,0x000D8F84,ﾋｯﾄﾏｰｸ(機銃ﾋｯﾄ),HIT标志(机枪),15,13
+730,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9F94,0x000D8F94,機銃発射3,机枪发射3,9,9
+731,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FA0,0x000D8FA0,機銃発射2,机枪发射2,9,9
+732,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FAC,0x000D8FAC,機銃発射1,机枪发射1,9,9
+733,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FB8,0x000D8FB8,ﾋｯﾄﾏｰｸ(特大),HIT标志(特大),12,13
+734,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FC8,0x000D8FC8,ﾋｯﾄﾏｰｸ(大),HIT标志(大),10,11
+735,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FD4,0x000D8FD4,ﾋｯﾄﾏｰｸ(中),HIT标志(中),10,11
+736,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FE0,0x000D8FE0,ﾋｯﾄﾏｰｸ(小),HIT标志(小),10,11
+737,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FEC,0x000D8FEC,水しぶき,喷水,8,4
+738,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000D9FF8,0x000D8FF8,土ころ,土块,6,4
+739,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA000,0x000D9000,ｼｮｯﾄｶﾞﾝ煙,霰弹枪烟,9,8
+740,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA00C,0x000D900C,メカ落下煙,机械落下烟,10,10
+741,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA018,0x000D9018,煙（地上）,烟（地上）,10,10
+742,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA024,0x000D9024,無し,无,4,2
+743,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA02C,0x000D902C,音声%d,语音%d,6,6
+744,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA034,0x000D9034,ﾗﾝﾀﾞﾑ,随机,5,4
+745,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA03C,0x000D903C,（■新規技）,（■新建技）,12,12
+746,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA04C,0x000D904C,技DATA DEL（%8d Byte）［メカNo.%2d:%s］,技DATA DEL（%8d Byte）［机械No.%2d:%s］,39,39
+747,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA084,0x000D9084,技DATA LOAD（%8d Byte）［メカNo.%2d:%s:技数%d］,技DATA LOAD（%8d Byte）［机械No.%2d:%s:技数%d］,47,47
+748,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA0B4,0x000D90B4,%s が、見つかりません。,未找到 %s。,23,11
+749,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA0DC,0x000D90DC,ERROR !!! 技効果音ループ指定しすぎ,ERROR !!! 技音效循环太多,34,24
+750,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA100,0x000D9100,警告：使われていない技効果音を停止しようとした,警告：企图停止未使用的技音效,46,28
+751,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA130,0x000D9130,⑤ﾐｻｲﾙ煙のところがエフェクト以外の情報になってる！！,嘍导弹烟的地方成为了效果以外的信息！！,52,38
+752,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA170,0x000D9170,超技カウンタがマイナスなったよ！？,超杀计数成为负数了啊！？,34,24
+753,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA194,0x000D9194,ERROR:TASK_Func_Change関数（タスク処理関数を範囲外指定(%d)）,ERROR:TASK_Func_Change关数（任务处理关数指定为范围外(%d)）,60,58
+754,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA1D4,0x000D91D4,メモリ不足です,内存不足,14,8
+755,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA1E4,0x000D91E4,TASK_DATA に %d Byte のメモリを確保しました,TASK_DATA 里申请了 %d Byte 的内存,43,33
+756,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA230,0x000D9230,ERROR!!!! : ベクトルデータがオーバーした,ERROR!!!! : Vector Data 溢出,40,28
+757,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA25C,0x000D925C,弾DATA DEL（%8d Byte）,弹DATA DEL（%8d Byte）,22,22
+758,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA288,0x000D9288,弾DATA LOAD（%8d Byte）,弹DATA LOAD（%8d Byte）,23,23
+759,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2A4,0x000D92A4,ﾐ咼,袣D,3,3
+760,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2A8,0x000D92A8,ﾐ咼,袣D,3,3
+761,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2AC,0x000D92AC,ﾀ｡D,馈D,3,3
+762,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2B0,0x000D92B0,ｰ魯,皹D,3,3
+763,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2B4,0x000D92B4,ｰ魯,皹D,3,3
+764,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2BC,0x000D92BC,p魯,p楧,3,3
+765,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA2C0,0x000D92C0,p魯,p楧,3,3
+766,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA2C4,0x000D92C4,アイテム番号変だよ : %d,诡异的道具序号 : %d,23,19
+767,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA2F4,0x000D92F4,スクリプトのイベント設定数が最大を超えました,脚本事件设定数超最大值,44,22
+768,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA328,0x000D9328,犢D,喾D,3,3
+769,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA338,0x000D9338,聖D,惞D,3,3
+770,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA33C,0x000D933C,ﾐｹD,泄D,3,3
+771,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA340,0x000D9340,0ｺD,0篋,3,3
+772,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA348,0x000D9348,Map_Scroll_Searchエラー  ID:%d のメカはセットされてない,Map_Scroll_Search错误  ID:%d 的机械未设定,55,41
+773,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA380,0x000D9380,アニメＯＢＪ%dの%d番は登録されていません,动画对象%d的第%d个未登录,40,24
+774,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA3AC,0x000D93AC,%d番の特殊アニメＯＢＪは登録されていません,第%d个特殊动画对象未登录,42,24
+775,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA3D8,0x000D93D8,兵器ロード回数が最大値超えた。,兵器读取次数超最大值,30,20
+776,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA3F8,0x000D93F8,何も兵器ロードしないのかＹＯ！,不读取兵器吗ＹＯ！,30,18
+777,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA418,0x000D9418,メカロードしてないのに兵器ロードしようとした。,没读取机体却读取兵器了。,46,24
+778,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA448,0x000D9448,ロードしてない兵器を消そうとした。,未读取的兵器却要消除。,34,22
+779,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA46C,0x000D946C,何も兵器削除しないのかＹＯ！,不消除兵器吗ＹＯ！,28,18
+780,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA48C,0x000D948C,メカロードしてないのに兵器消そうとした。,没有读取机体，却要消除兵器。,40,28
+781,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA4B8,0x000D94B8,すでにロードしてるメカデータ(%d:%s)をまたロードしようとした。,已经读取的机体数据(%d:%s)又要读取。,61,35
+782,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA4F8,0x000D94F8,ロードしてないメカデータ(%d:%s)を消そうとした。,没有读取的机体数据(%d:%s)却要消除。,47,35
+783,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA528,0x000D9528,mSCR_Chr_Mov_Set関数のエラー：最大範囲を超えて移動情報を設定しようとしました。,mSCR_Chr_Mov_Set关数错误：企图超越最大范围设定移动信息。,78,56
+784,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA578,0x000D9578,ﾐﾘD,胸D,3,3
+785,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA580,0x000D9580,ｰUX,燛X,3,3
+786,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA5B4,0x000D95B4,あれ！？ここでステージクリアしてるはずだよ！,咦！？这里应该过关了啊！,44,24
+787,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA628,0x000D9628,ロックオンサイトがメカ以外のモノをロックしている！！,瞄准了机体以外的东西啊！！,52,26
+788,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA6A4,0x000D96A4,●メモリ確保 ： メカNo.%2dＣＰＵデータ ： %d Byte,●分配内存 ： 机体No.%2dＣＰＵ数据 ： %d Byte,49,45
+789,enabled_text,CP932 源字节与干净 2003 EXE 精确匹配；旧汉化 GBK 对应可安全写入,0x000DA6D8,0x000D96D8,○メモリ解放 ： メカNo.%2dＣＰＵデータ ： %d Byte,○释放内存 ： 机体No.%2dＣＰＵ数据 ： %d Byte,49,45
+790,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA72C,0x000D972C,ｰSE,癝E,3,3
+791,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA730,0x000D9730,ﾀUE,繳E,3,3
+792,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA754,0x000D9754,ﾀWE,繵E,3,3
+793,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA778,0x000D9778,牆M,酀M,3,3
+794,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA77C,0x000D977C,ﾔｭM,詽M,3,3
+795,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA780,0x000D9780,ﾈｭM,葷M,3,3
+796,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA784,0x000D9784,ｼｭM,紳M,3,3
+797,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA788,0x000D9788,ｰｭM,皾M,3,3
+798,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA790,0x000D9790,亊M,槤M,3,3
+799,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA794,0x000D9794,遣M,対M,3,3
+800,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA79C,0x000D979C,tｭM,t滿,3,3
+801,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7A0,0x000D97A0,hｭM,h滿,3,3
+802,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7A4,0x000D97A4,\ｭM,\滿,3,3
+803,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7A8,0x000D97A8,PｭM,P滿,3,3
+804,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7AC,0x000D97AC,DｭM,D滿,3,3
+805,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7B0,0x000D97B0,8ｭM,8滿,3,3
+806,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7B4,0x000D97B4,",ｭM",",滿",3,3
+807,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7B8,0x000D97B8, ｭM, 滿,3,3
+808,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7CC,0x000D97CC,莅M,錅M,3,3
+809,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7D0,0x000D97D0,ﾘｬM,販M,3,3
+810,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7D4,0x000D97D4,ﾌｬM,虦M,3,3
+811,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7D8,0x000D97D8,ﾀｬM,罍M,3,3
+812,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7DC,0x000D97DC,ｴｬM,礈M,3,3
+813,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7E4,0x000D97E4,悽M,湝M,3,3
+814,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7E8,0x000D97E8,成M,悳M,3,3
+815,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7F0,0x000D97F0,xｬM,x淢,3,3
+816,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7F4,0x000D97F4,lｬM,l淢,3,3
+817,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7F8,0x000D97F8,`ｬM,`淢,3,3
+818,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA7FC,0x000D97FC,TｬM,T淢,3,3
+819,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA800,0x000D9800,HｬM,H淢,3,3
+820,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA804,0x000D9804,<ｬM,<淢,3,3
+821,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA808,0x000D9808,0ｬM,0淢,3,3
+822,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA80C,0x000D980C,$ｬM,$淢,3,3
+823,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA819,0x000D9819,ｬM,淢,2,2
+824,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA820,0x000D9820,隲M,铔M,3,3
+825,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA824,0x000D9824,ﾜｫM,軟M,3,3
+826,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA828,0x000D9828,ﾐｫM,袥M,3,3
+827,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA82C,0x000D982C,ﾄｫM,臎M,3,3
+828,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA830,0x000D9830,ｸｫM,笡M,3,3
+829,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA834,0x000D9834,ｬｫM,瑳M,3,3
+830,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA83C,0x000D983C,鉢M,敍M,3,3
+831,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA840,0x000D9840,悪M,垱M,3,3
+832,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA844,0x000D9844,杉M,悏M,3,3
+833,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA848,0x000D9848,|ｫM,|汳,3,3
+834,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA84C,0x000D984C,pｫM,p汳,3,3
+835,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA850,0x000D9850,dｫM,d汳,3,3
+836,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA854,0x000D9854,XｫM,X汳,3,3
+837,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA858,0x000D9858,LｫM,L汳,3,3
+838,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA85C,0x000D985C,@ｫM,@汳,3,3
+839,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA860,0x000D9860,4ｫM,4汳,3,3
+840,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA864,0x000D9864,(ｫM,(汳,3,3
+841,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA87C,0x000D987C,爼M,鄽M,3,3
+842,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA880,0x000D9880,ﾔｪM,詺M,3,3
+843,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA884,0x000D9884,ﾈｪM,葰M,3,3
+844,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA888,0x000D9888,ｼｪM,細M,3,3
+845,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA88C,0x000D988C,ｰｪM,皻M,3,3
+846,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA894,0x000D9894,亂M,槡M,3,3
+847,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA898,0x000D9898,謙M,寶M,3,3
+848,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8A0,0x000D98A0,tｪM,t歁,3,3
+849,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8A4,0x000D98A4,hｪM,h歁,3,3
+850,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8A8,0x000D98A8,\ｪM,\歁,3,3
+851,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8AC,0x000D98AC,PｪM,P歁,3,3
+852,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8B0,0x000D98B0,DｪM,D歁,3,3
+853,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8B4,0x000D98B4,8ｪM,8歁,3,3
+854,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8B8,0x000D98B8,",ｪM",",歁",3,3
+855,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8BC,0x000D98BC, ｪM, 歁,3,3
+856,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8D0,0x000D98D0,茫M,錂M,3,3
+857,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8D4,0x000D98D4,ﾘｩM,貦M,3,3
+858,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8D8,0x000D98D8,ﾌｩM,虣M,3,3
+859,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8DC,0x000D98DC,ﾀｩM,罊M,3,3
+860,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8E0,0x000D98E0,ｴｩM,礄M,3,3
+861,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8E8,0x000D98E8,惓M,湙M,3,3
+862,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8EC,0x000D98EC,姓M,悪M,3,3
+863,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8F4,0x000D98F4,xｩM,x橫,3,3
+864,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8F8,0x000D98F8,lｩM,l橫,3,3
+865,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA8FC,0x000D98FC,`ｩM,`橫,3,3
+866,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA900,0x000D9900,TｩM,T橫,3,3
+867,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA904,0x000D9904,HｩM,H橫,3,3
+868,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA908,0x000D9908,<ｩM,<橫,3,3
+869,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA90C,0x000D990C,0ｩM,0橫,3,3
+870,excluded_structural_false_positive,连续结构体/指针字节被误解码为短字符串；不得写回 EXE,0x000DA910,0x000D9910,$ｩM,$橫,3,3

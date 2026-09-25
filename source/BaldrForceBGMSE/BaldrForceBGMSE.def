@@ -1,0 +1,3 @@
+LIBRARY BaldrForceBGMSE
+EXPORTS
+    InitializeASI=_InitializeASI@0

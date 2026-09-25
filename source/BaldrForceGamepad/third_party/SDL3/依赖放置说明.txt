@@ -1,0 +1,12 @@
+BaldrForceGamepad v0.1-test7 的 SDL3 依赖放置目录。
+
+如果已经取得并核验官方 32 位 x86 SDL3.dll，请放成：
+
+source\third_party\SDL3\SDL3.dll
+
+随后运行 source\build.bat，脚本会自动把 DLL 复制到包根 release\ 目录。
+
+当前项目记录并推荐使用 SDL 3.4.16 x86。
+不要把 x64 或 ARM64 SDL3.dll 放入这里。
+
+v0.1-test7 仍采用运行时动态加载 SDL3.dll；ASI 本身不把 SDL3 写进静态 Import Directory。

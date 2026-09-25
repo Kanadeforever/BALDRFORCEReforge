@@ -1,0 +1,16 @@
+; BaldrForceVoiceSE.def
+;
+; 这个文件告诉 Windows 链接器：最终 DLL/ASI 对外应该导出哪些符号。
+; 游戏本身不会直接读取这份文本；它只在构建阶段使用。
+;
+; InitializeASI=_InitializeASI@0
+;   左边是给现代 ASI Loader 看的无修饰名字 InitializeASI。
+;   右边是 32 位 __stdcall 编译后真实产生的装饰名 _InitializeASI@0。
+;
+; "_InitializeASI@0"=_InitializeASI@0
+;   同时保留装饰名导出，兼容只查找 Win32 装饰符号的旧 Loader。
+
+LIBRARY BaldrForceVoiceSE
+EXPORTS
+    InitializeASI=_InitializeASI@0
+    "_InitializeASI@0"=_InitializeASI@0
