@@ -31,21 +31,21 @@
 /* HELLMODE 专用字图/图块资源。旧汉化版本体积远大于原版，是明确汉化资产。 */
 .globl _g_embedded_hell_font_grp_start
 _g_embedded_hell_font_grp_start:
-.incbin "source/assets/BMP/Hell/Font.grp"
+.incbin "assets/BMP/Hell/Font.grp"
 .globl _g_embedded_hell_font_grp_end
 _g_embedded_hell_font_grp_end:
 
 /* Trial/HELLMODE 菜单说明文字图块；test12 实机已证明它参与中文图片显示。 */
 .globl _g_embedded_hell_menumsg_grp_start
 _g_embedded_hell_menumsg_grp_start:
-.incbin "source/assets/BMP/Hell/MenuMsg.grp"
+.incbin "assets/BMP/Hell/MenuMsg.grp"
 .globl _g_embedded_hell_menumsg_grp_end
 _g_embedded_hell_menumsg_grp_end:
 
 /* HELLMODE 第三组菜单图块。二进制体积/内容与原版差异显著。 */
 .globl _g_embedded_hell_menu03_grp_start
 _g_embedded_hell_menu03_grp_start:
-.incbin "source/assets/BMP/Hell/hell_Menu03.grp"
+.incbin "assets/BMP/Hell/hell_Menu03.grp"
 .globl _g_embedded_hell_menu03_grp_end
 _g_embedded_hell_menu03_grp_end:
 
@@ -58,19 +58,19 @@ _g_embedded_hell_menu03_grp_end:
 
 .globl _g_embedded_cpu_genha_start
 _g_embedded_cpu_genha_start:
-.incbin "source/assets/Dat/Cpu/genha.cpu"
+.incbin "assets/Dat/Cpu/genha.cpu"
 .globl _g_embedded_cpu_genha_end
 _g_embedded_cpu_genha_end:
 
 .globl _g_embedded_cpu_kaira_start
 _g_embedded_cpu_kaira_start:
-.incbin "source/assets/Dat/Cpu/kaira.cpu"
+.incbin "assets/Dat/Cpu/kaira.cpu"
 .globl _g_embedded_cpu_kaira_end
 _g_embedded_cpu_kaira_end:
 
 .globl _g_embedded_cpu_zako_s_t01_start
 _g_embedded_cpu_zako_s_t01_start:
-.incbin "source/assets/Dat/Cpu/zako_s_t01.cpu"
+.incbin "assets/Dat/Cpu/zako_s_t01.cpu"
 .globl _g_embedded_cpu_zako_s_t01_end
 _g_embedded_cpu_zako_s_t01_end:
 
@@ -81,19 +81,19 @@ _g_embedded_cpu_zako_s_t01_end:
 /* TOORU.WAZ 已实机确认包含“轻拳/直拳/上勾拳……”等中文招式名。 */
 .globl _g_embedded_tooru_waz_start
 _g_embedded_tooru_waz_start:
-.incbin "source/assets/Dat/Waza/TOORU.WAZ"
+.incbin "assets/Dat/Waza/TOORU.WAZ"
 .globl _g_embedded_tooru_waz_end
 _g_embedded_tooru_waz_end:
 
 /* neko05.waz 与 YAGISAWA.WAZ 的差异很小，但用户全量二进制比较确认不等于原版。 */
 .globl _g_embedded_neko05_waz_start
 _g_embedded_neko05_waz_start:
-.incbin "source/assets/Dat/Waza/neko05.waz"
+.incbin "assets/Dat/Waza/neko05.waz"
 .globl _g_embedded_neko05_waz_end
 _g_embedded_neko05_waz_end:
 
 .globl _g_embedded_yagisawa_waz_start
 _g_embedded_yagisawa_waz_start:
-.incbin "source/assets/Dat/Waza/YAGISAWA.WAZ"
+.incbin "assets/Dat/Waza/YAGISAWA.WAZ"
 .globl _g_embedded_yagisawa_waz_end
 _g_embedded_yagisawa_waz_end:

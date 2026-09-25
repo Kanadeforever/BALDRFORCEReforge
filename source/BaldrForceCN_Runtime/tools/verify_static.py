@@ -280,11 +280,11 @@ def main():
                 'g_after_bin_direct_runtime_hits' in source)
     asm=(ROOT/'source/embedded_assets.S').read_text('utf-8')
     ok &= check('embedded assembly manifest present',
-                '.incbin "source/assets/Dat/Waza/TOORU.WAZ"' in asm and
-                '.incbin "source/assets/BMP/Hell/MenuMsg.grp"' in asm and
-                '.incbin "source/assets/BMP/Hell/Font.grp"' in asm and
-                '.incbin "source/assets/Dat/Cpu/genha.cpu"' in asm and
-                '.incbin "source/assets/Dat/Waza/YAGISAWA.WAZ"' in asm)
+                '.incbin "assets/Dat/Waza/TOORU.WAZ"' in asm and
+                '.incbin "assets/BMP/Hell/MenuMsg.grp"' in asm and
+                '.incbin "assets/BMP/Hell/Font.grp"' in asm and
+                '.incbin "assets/Dat/Cpu/genha.cpu"' in asm and
+                '.incbin "assets/Dat/Waza/YAGISAWA.WAZ"' in asm)
     ok &= check('old .zeas normal glyph placement parity','voff=tm.tmAscent-gm.gmptGlyphOrigin.y' in source and 'rr=(LONG)size-voff-(LONG)y' in source)
     ok &= check('old .zeas low-level 1bpp mask path present','RendererGetGBKMask' in source and 'install_gbk_draw_mask_hooks' in source)
     # test12 regression guard: restoring only the lookup state is not enough. test10 captured
