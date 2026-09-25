@@ -14,8 +14,8 @@ VFS 中除两个 PAC 外的 311 个 loose 文件，逐个与干净原版同路�
 4. 其余 302 个标记为“原版一致，直接使用 clean 文件”；
 5. 任何不在固定路径分类中的文件都会进入 REVIEW，让发布检查失败。
 
-原始对比证据：evidence/原版对比_311个loose文件仅9个有差异.png
-9 个差异文件原字节：tools/研究工具/旧汉化差异资源_9文件.zip
+原始对比证据（原版对比 PNG）与 9 个差异文件原字节（zip）都不在本仓库中，属历史测试证据。
+本工具只依赖调用方提供的 recovered_vfs 目录，不需要这些文件。
 """
 from __future__ import annotations
 import csv, hashlib, sys
@@ -76,10 +76,13 @@ def classify(rel: str) -> tuple[str,str,str,str]:
     return (group,'回退 clean 2003 原文件','PASS','用户全量二进制比较确认：该旧汉化 loose 文件与干净原版同路径文件逐字节完全相同。')
 
 def main() -> int:
-    if len(sys.argv)!=3:
-        print('用法: python audit_vfs_resources.py <recovered_vfs> <项目根目录>')
+    if len(sys.argv) not in (2,3):
+        print('用法: python audit_vfs_resources.py <recovered_vfs> [模块目录]')
+        print('  模块目录省略时默认取本脚本所在模块，结果写入 <模块目录>/data。')
         return 2
-    vfs=Path(sys.argv[1]).resolve(); root=Path(sys.argv[2]).resolve()
+    vfs=Path(sys.argv[1]).resolve()
+    # 默认写到本脚本所在模块的 data 目录（重组后 data 属于各模块），避免在项目根误建 data 目录。
+    root=Path(sys.argv[2]).resolve() if len(sys.argv)==3 else Path(__file__).resolve().parents[1]
     if not vfs.is_dir():
         print(f'[失败] recovered_vfs 不存在: {vfs}')
         return 2

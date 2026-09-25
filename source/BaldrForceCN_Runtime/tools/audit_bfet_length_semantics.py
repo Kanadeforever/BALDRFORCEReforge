@@ -32,8 +32,10 @@ from __future__ import annotations
 import struct
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-PAC = ROOT / "release" / "Update.pac"
+ROOT = Path(__file__).resolve().parents[1]  # 本模块目录
+PROJECT = ROOT.parents[1]  # 项目根
+# 编译产物固定在项目根的 release（四个模块共用），不再放在模块内。
+PAC = PROJECT / "release" / "Update.pac"
 
 
 def u32(data: bytes, offset: int) -> int:

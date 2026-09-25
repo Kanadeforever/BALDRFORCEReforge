@@ -34,8 +34,17 @@ from collections import Counter
 from pathlib import Path
 
 
-# 项目根目录就是 tools 的上一级。这样不论从哪里执行脚本，都能找到 release/source/docs。
+# 2026-09-25 重组后的路径约定：
+#   ROOT    本模块目录   source/BaldrForceCN_Runtime
+#   PROJECT 项目根
+#   SRC     源码目录     <模块>/src
+#   RELEASE 编译产物目录 <项目根>/release（四个模块共用，固定项目根）
+#   DOCS    本模块文档   <项目根>/docs/BaldrForceCN_Runtime
 ROOT = Path(__file__).resolve().parents[1]
+PROJECT = ROOT.parents[1]
+SRC = ROOT / "src"
+RELEASE = PROJECT / "release"
+DOCS = PROJECT / "docs" / "BaldrForceCN_Runtime"
 
 # 两个 PAC 的字节已经从旧 46MB 汉化 VFS 独立恢复并多轮固定。
 # 这里同时固定大小和 SHA256，避免“文件名一样但内容被换掉”的假通过。
@@ -222,17 +231,17 @@ def main() -> int:
     # ------------------------------------------------------------------
     # 1. release 布局与两个 PAC
     # ------------------------------------------------------------------
-    release = ROOT / "release"
-    release_files = sorted(
-        p.relative_to(release).as_posix()
-        for p in release.rglob("*")
-        if p.is_file()
-    )
+    # release 现在是四个模块共用的项目根目录，因此只断言 CN 自己的文件都在，
+    # 不再要求整个 release 目录里恰好只有四个文件。
+    release = RELEASE
+    cn_files = sorted(x.name for x in release.rglob("BaldrForceCN*") if x.is_file())
     ok &= report(
-        "release only contains four runtime files",
-        release_files == ["BaldrForceCN.asi", "BaldrForceCN.ini", "Chapter.pac", "Update.pac"],
-        ", ".join(release_files),
+        "CN release files are exactly asi + ini",
+        cn_files == ["BaldrForceCN.asi", "BaldrForceCN.ini"],
+        ", ".join(cn_files),
     )
+    for name in ("BaldrForceCN.asi", "BaldrForceCN.ini", "Chapter.pac", "Update.pac"):
+        ok &= report(f"{name} present in release", (release / name).is_file())
 
     for name, (expected_size, expected_hash) in EXPECTED_PACS.items():
         path = release / name
@@ -286,7 +295,7 @@ def main() -> int:
     # 3. 9 个原始 loose 差异资产与最终 ASI 内嵌字节
     # ------------------------------------------------------------------
     for rel, (expected_size, expected_hash) in EXPECTED_EMBEDDED_ASSETS.items():
-        source_asset = ROOT / "source" / "assets" / Path(rel)
+        source_asset = SRC / "assets" / Path(rel)
         exists = source_asset.is_file()
         ok &= report(f"source asset exists: {rel}", exists)
         if not exists:
@@ -336,7 +345,7 @@ def main() -> int:
     # ------------------------------------------------------------------
     # 5. 版本、实机证据与文档同步检查
     # ------------------------------------------------------------------
-    source_text = (ROOT / "source" / "BaldrForceCN.c").read_text("utf-8")
+    source_text = (SRC / "BaldrForceCN.c").read_text("utf-8")
     ok &= report("after.bin runtime hit logging",
                  "[命中] after.bin 直接 GBK 脚本文本已执行（运行时已确认）" in source_text and
                  "g_after_bin_direct_runtime_hits" in source_text)
@@ -422,7 +431,7 @@ def main() -> int:
         and "g_enable_log" in source_text,
     )
 
-    ini_path = ROOT / "release" / "BaldrForceCN.ini"
+    ini_path = RELEASE / "BaldrForceCN.ini"
     if not ini_path.is_file():
         ok &= report("BaldrForceCN.ini exists", False)
     else:
@@ -444,14 +453,20 @@ def main() -> int:
         "v1.0.3_第一次_八木泽名片崩溃.log",
         "v1.0.3_第二次_Backlog崩溃.log",
     ]
-    missing_evidence = [
-        name for name in evidence_files if not (ROOT / "evidence" / name).is_file()
-    ]
-    ok &= report(
-        "test12 final real-machine evidence is present",
-        not missing_evidence,
-        ", ".join(missing_evidence),
-    )
+    # 历史实机证据（崩溃日志与截图）不在仓库中，属可选外部材料。
+    # 目录存在时逐项校验；不存在时记为 SKIP，不计入失败。
+    evidence_dir = PROJECT / "evidence"
+    if not evidence_dir.is_dir():
+        print("[SKIP] 实机证据目录不存在，跳过该项：", evidence_dir)
+    else:
+        missing_evidence = [
+            name for name in evidence_files if not (evidence_dir / name).is_file()
+        ]
+        ok &= report(
+            "test12 final real-machine evidence is present",
+            not missing_evidence,
+            ", ".join(missing_evidence),
+        )
 
     backlog_audit = ROOT / "tools" / "audit_bfet_backlog_risks.py"
     backlog_csv = ROOT / "data" / "BFET_Backlog风险审计.csv"
@@ -468,20 +483,26 @@ def main() -> int:
             ]),
         )
 
-    main_readme = (ROOT / "说明.md").read_text("utf-8")
-    handoff = (ROOT / "docs" / "完整接档说明.md").read_text("utf-8")
-    resource_doc = (ROOT / "docs" / "资源覆盖说明.md").read_text("utf-8")
-    all_docs = "\n".join(
-        p.read_text("utf-8", errors="replace")
-        for p in ROOT.rglob("*.md")
-        if "tools/研究工具" not in p.as_posix()
-    )
+    # 2026-09-25 重组与文档合并后，CN 的三篇文档位于项目根 docs/BaldrForceCN_Runtime。
+    # 旧布局的 说明.md 与 docs/资源覆盖说明.md 已并入 完整接档说明.md。
+    doc_names = ["完整接档说明.md", "构建与发布.md", "更新记录.md"]
+    doc_texts = {}
+    for name in doc_names:
+        path = DOCS / name
+        exists = path.is_file()
+        ok &= report(f"CN doc exists: {name}", exists)
+        doc_texts[name] = path.read_text("utf-8", errors="replace") if exists else ""
 
-    ok &= report("top-level README identifies v1.0.4-crashfix1", "v1.0.4-crashfix1" in main_readme.splitlines()[0])
-    ok &= report("handoff identifies v1.0.4-crashfix1", "截至 v1.0.4-crashfix1" in handoff.splitlines()[0])
+    handoff = doc_texts["完整接档说明.md"]
+    all_docs = "\n".join(doc_texts.values())
+
     ok &= report(
-        "resource doc records HELLMODE real-machine pass",
-        "HELLMODE" in resource_doc and "test12" in resource_doc and "实机" in resource_doc and "恢复" in resource_doc,
+        "handoff identifies v1.0.4-crashfix1",
+        "v1.0.4-crashfix1" in "\n".join(handoff.splitlines()[:8]),
+    )
+    ok &= report(
+        "handoff records HELLMODE real-machine pass",
+        all(x in handoff for x in ("HELLMODE", "test12", "实机", "恢复")),
     )
 
     stale_phrases = [

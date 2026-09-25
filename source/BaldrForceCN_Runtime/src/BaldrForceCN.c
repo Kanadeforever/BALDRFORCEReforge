@@ -2538,7 +2538,7 @@ static int install_script_string_hook(void){
 
 /* ---------- exact old-content feed hooks ---------- */
 static EMBEDDED_LOOSE_ASSET* lookup_embedded_asset(LPCSTR path){
-    /* Search the tiny 17-row manifest linearly.  File opens are infrequent, so a hash table would add complexity only. */
+    /* Search the tiny 9-row manifest linearly.  File opens are infrequent, so a hash table would add complexity only. */
     DWORD i;if(!path)return NULL;
     for(i=0;i<EMBEDDED_ASSET_COUNT;i++)if(path_suffix_eq(path,g_embedded_assets[i].path))return &g_embedded_assets[i];
     return NULL;

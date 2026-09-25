@@ -11,7 +11,17 @@ from __future__ import annotations
 import argparse, csv, hashlib, re, struct
 from pathlib import Path
 
+# 2026-09-25 重组后的路径约定：
+#   ROOT    本模块目录   source/BaldrForceCN_Runtime
+#   PROJECT 项目根
+#   SRC     源码目录     <模块>/src
+#   RELEASE 编译产物目录 <项目根>/release（四个模块共用，固定项目根）
+#   DOCS    本模块文档   <项目根>/docs/BaldrForceCN_Runtime
 ROOT = Path(__file__).resolve().parents[1]
+PROJECT = ROOT.parents[1]
+SRC = ROOT / "src"
+RELEASE = PROJECT / "release"
+DOCS = PROJECT / "docs" / "BaldrForceCN_Runtime"
 EXPECTED_EXE_SHA256 = '5b65ecb1512b0cbf72cacdb5e981aa04f9c569698c6cab2f8877abf2d2cd42c5'
 EXPECTED_UPDATE_SHA256 = '7f5f66e03d23869aeb2c8de771f4d34907478a85cfa8982e9da9c64612c4114e'
 EXPECTED_CHAPTER_SHA256 = '565e48a1a272feb9c99223f0a5dac8e3a450dea4a5ce05e8e81e8e400b9e960d'
@@ -149,13 +159,17 @@ def pac_entries(data: bytes):
 
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('exe',type=Path);a=ap.parse_args();ok=True
+    if not a.exe.is_file():
+        print(f'[失败] 找不到 clean EXE: {a.exe}')
+        print('       用法: python verify_static.py <clean BaldrForce.exe>')
+        return 2
     exe=a.exe.read_bytes();pe=parse_pe(exe);got=sha256(a.exe)
     ok &= check('clean EXE SHA256',got==EXPECTED_EXE_SHA256,got)
     ok &= check('clean EXE PE32 i386',pe['machine']==0x14c and pe['magic']==0x10b)
-    ui=parse_ui(ROOT/'source/ui_patch_data_gbk.h')
-    legacy=parse_legacy(ROOT/'source/legacy_static_patch_data_gbk.h')
-    norm=parse_norm(ROOT/'source/encoding_normalization_gbk.h')
-    late=parse_legacy(ROOT/'source/late_static_patch_data_gbk.h')
+    ui=parse_ui(SRC/'ui_patch_data_gbk.h')
+    legacy=parse_legacy(SRC/'legacy_static_patch_data_gbk.h')
+    norm=parse_norm(SRC/'encoding_normalization_gbk.h')
+    late=parse_legacy(SRC/'late_static_patch_data_gbk.h')
     ok &= check('merged UI table count',len(ui)==211,str(len(ui)))
     ok &= check('WideSweep enabled real-text count',len(legacy)==662,str(len(legacy)))
     ok &= check('encoding-only normalization count',len(norm)==168,str(len(norm)))
@@ -212,11 +226,11 @@ def main():
     for label,(va,expected) in OLD_LOCALIZATION_PATCH_BYTES.items():
         rva=va-pe['image_base'];off=rva_to_off(pe,rva);got_bytes=exe[off:off+len(expected)]
         ok &= check(label,got_bytes==expected,got_bytes.hex(' ').upper())
-    for label,p,sz,hv in [('Update.pac',ROOT/'release/Update.pac',EXPECTED_UPDATE_SIZE,EXPECTED_UPDATE_SHA256),('Chapter.pac',ROOT/'release/Chapter.pac',EXPECTED_CHAPTER_SIZE,EXPECTED_CHAPTER_SHA256)]:
+    for label,p,sz,hv in [('Update.pac',RELEASE/'Update.pac',EXPECTED_UPDATE_SIZE,EXPECTED_UPDATE_SHA256),('Chapter.pac',RELEASE/'Chapter.pac',EXPECTED_CHAPTER_SIZE,EXPECTED_CHAPTER_SHA256)]:
         ok &= check(f'{label} exists',p.exists())
         if p.exists():
             ok &= check(f'{label} size',p.stat().st_size==sz,str(p.stat().st_size));g=sha256(p);ok &= check(f'{label} SHA256',g==hv,g)
-    upd=ROOT/'release/Update.pac'
+    upd=RELEASE/'Update.pac'
     if upd.exists():
         entries=pac_entries(upd.read_bytes())
         for name,(esz,ehash) in EXPECTED_DAT.items():
@@ -225,16 +239,18 @@ def main():
             ok &= check(f'localized DAT oracle {name}',good,('missing' if not row else f'{row[0]}/{row[1]}'))
     # v1.0.4 恢复 BaldrForceCN.ini，但只允许字体和日志两个安全设置。
     # loose 资源仍全部内嵌，不允许重新出现 BaldrForceCN_data 目录。
-    release_files=sorted(str(x.relative_to(ROOT/'release')).replace('\\','/') for x in (ROOT/'release').rglob('*') if x.is_file())
-    ok &= check('release contains ASI + INI + Update.pac + Chapter.pac only',
-                release_files==['BaldrForceCN.asi','BaldrForceCN.ini','Chapter.pac','Update.pac'],','.join(release_files))
-    ok &= check('BaldrForceCN.ini restored in release',(ROOT/'release/BaldrForceCN.ini').exists())
-    ok &= check('BaldrForceCN_data removed from release',not (ROOT/'release/BaldrForceCN_data').exists())
+    # release 现在是四个模块共用的项目根目录，因此只断言 CN 自己的文件都在，
+    # 不再要求整个 release 目录里恰好只有四个文件。
+    cn_files=sorted(x.name for x in RELEASE.rglob('BaldrForceCN*') if x.is_file())
+    ok &= check('CN release files are exactly asi + ini',cn_files==['BaldrForceCN.asi','BaldrForceCN.ini'],','.join(cn_files))
+    for name in ('BaldrForceCN.asi','BaldrForceCN.ini','Update.pac','Chapter.pac'):
+        ok &= check(f'{name} present in release',(RELEASE/name).is_file())
+    ok &= check('BaldrForceCN_data removed from release',not (RELEASE/'BaldrForceCN_data').exists())
 
     # Verify every source asset against the old-VFS oracle before checking the linked ASI.
     asset_payloads={}
     for rel,(esz,ehash) in EXPECTED_EMBEDDED_ASSETS.items():
-        apath=ROOT/'source/assets'/Path(rel)
+        apath=SRC/'assets'/Path(rel)
         exists=apath.exists()
         ok &= check(f'embedded source asset exists: {rel}',exists)
         if exists:
@@ -242,7 +258,7 @@ def main():
             good=len(payload)==esz and hashlib.sha256(payload).hexdigest()==ehash
             ok &= check(f'embedded source asset size/hash: {rel}',good,f'{len(payload)} / {hashlib.sha256(payload).hexdigest()}')
 
-    asi=ROOT/'release/BaldrForceCN.asi';ok &= check('BaldrForceCN.asi exists',asi.exists())
+    asi=RELEASE/'BaldrForceCN.asi';ok &= check('BaldrForceCN.asi exists',asi.exists())
     if asi.exists():
         ad=asi.read_bytes();ape=parse_pe(ad);ok &= check('ASI PE32 i386 DLL',ape['machine']==0x14c and ape['magic']==0x10b and bool(ape['chars']&0x2000))
         irva,isz=ape['dirs'][1];ok &= check('ASI import directory empty',irva==0 and isz==0,f'RVA=0x{irva:X}, size={isz}');print('[INFO] ASI SHA256:',sha256(asi))
@@ -251,7 +267,7 @@ def main():
         for rel,payload in asset_payloads.items():
             count=ad.count(payload)
             ok &= check(f'ASI contains exact embedded asset once: {rel}',count==1,str(count))
-    source=(ROOT/'source/BaldrForceCN.c').read_text('utf-8')
+    source=(SRC/'BaldrForceCN.c').read_text('utf-8')
     ok &= check('v1.0.4-crashfix1 version marker','BaldrForceCN 中文运行时 ASI v1.0.4-crashfix1' in source)
     ok &= check('old localization global DBCS rule','if(a<0x80||a>0xFE)return 0;' in source and 'old-localization global 0x80..0xFE DBCS renderer active' in source)
     ok &= check('exact script resolver present','lookup_ja_script' in source and 'exact BFET script identity/offset resolver active' in source)
@@ -278,7 +294,7 @@ def main():
     ok &= check('after.bin runtime-hit log present',
                 '[命中] after.bin 直接 GBK 脚本文本已执行（运行时已确认）' in source and
                 'g_after_bin_direct_runtime_hits' in source)
-    asm=(ROOT/'source/embedded_assets.S').read_text('utf-8')
+    asm=(SRC/'embedded_assets.S').read_text('utf-8')
     ok &= check('embedded assembly manifest present',
                 '.incbin "assets/Dat/Waza/TOORU.WAZ"' in asm and
                 '.incbin "assets/BMP/Hell/MenuMsg.grp"' in asm and

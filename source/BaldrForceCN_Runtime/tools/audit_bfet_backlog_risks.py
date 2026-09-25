@@ -26,8 +26,10 @@ import csv
 import struct
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-PAC = ROOT / "release" / "Update.pac"
+ROOT = Path(__file__).resolve().parents[1]  # 本模块目录
+PROJECT = ROOT.parents[1]  # 项目根
+# 编译产物固定在项目根的 release（四个模块共用）；输出仍写本模块的 data。
+PAC = PROJECT / "release" / "Update.pac"
 OUT_CSV = ROOT / "data" / "BFET_Backlog风险审计.csv"
 OUT_TXT = ROOT / "data" / "脚本历史记录风险审计摘要.txt"
 
