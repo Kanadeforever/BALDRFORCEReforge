@@ -5,7 +5,7 @@ BALDR FORCE EXE （2003 原版 clean Win32/x86 EXE）的 MOD 合集。四个模�
 
 | 模块 | 版本 | 作用 |
 |---|---|---|
-| BaldrForceCN | v1.0.4-crashfix1 | 中文汉化运行时（GBK renderer + BFET 文本映射 + 原汉化资源提取覆盖） |
+| BaldrForceCN | v1.0.4-crashfix1 | 中文汉化运行时<br>（GBK renderer + BFET 文本映射 + 原汉化资源提取后原样运行） |
 | BaldrForceGamepad | v0.1-test7 | 用 SDL3 提供现代手柄支持 |
 | BaldrForceVoiceSE | v0.1.1-test1 | 把 BFSE 的剧情语音接进 BFE |
 | BaldrForceBGMSE | v0.1-test1 | 把 BFSE 的新版 BGM 移植进 BFE |
