@@ -60,5 +60,5 @@ BaldrForceCN 另外会把 Chapter.pac 与 Update.pac 复制到 release（这两�
   audit_bfet_length_semantics.py、audit_bfet_backlog_risks.py）仍在使用目录重组前的旧路径，
   当前无法运行；其中引用的 evidence 目录也不存在。主构建流程不依赖它们。
 - .gitignore 排除了 release 目录，以及 BaldrForceVoiceSE 的 data 下 BFE 与 BFSE 目录。
-  因此直接克隆后无法构建 VoiceSE，且仓库里没有编译产物。
-- BaldrForceGamepad 需要手工放置 third_party 下的 x86 SDL3.dll，否则 release 中不会有 SDL3.dll。
+  因此直接克隆后可能无法构建 VoiceSE（但语音文件码表存在，理论上可构建），且仓库里没有编译产物。
+- BaldrForceGamepad 需要手工放置 third_party 下的 x86 [SDL3.dll(SDL3-3.4.16-win32-x86.zip)](https://github.com/libsdl-org/SDL/releases/tag/release-3.4.16)，否则 release 中不会有 SDL3.dll。
